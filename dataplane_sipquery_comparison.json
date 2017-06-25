@@ -74,31 +74,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 24747,
-		"common": 16
+		"ips": 24668,
+		"common": 15
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9049,
+		"ips": 9029,
 		"common": 12
-	},
-	{
-		"name": "blocklist_de_imap",
-		"category": "attacks",
-		"ips": 2170,
-		"common": 1
-	},
-	{
-		"name": "blocklist_de_mail",
-		"category": "attacks",
-		"ips": 15736,
-		"common": 1
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 169,
+		"ips": 172,
 		"common": 3
 	},
 	{
@@ -236,7 +224,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54033,
+		"ips": 54044,
 		"common": 1
 	},
 	{
@@ -248,8 +236,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 33354,
-		"common": 100
+		"ips": 33266,
+		"common": 99
 	},
 	{
 		"name": "firehol_level3",
@@ -260,13 +248,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625567,
+		"ips": 9625583,
 		"common": 3
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 40657,
+		"ips": 40668,
 		"common": 1
 	},
 	{
@@ -290,7 +278,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1591,
+		"ips": 1575,
 		"common": 34
 	},
 	{
@@ -512,14 +500,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 177,
+		"ips": 173,
 		"common": 9
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 272,
-		"common": 2
+		"ips": 269,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -530,7 +518,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 201,
+		"ips": 204,
 		"common": 2
 	},
 	{
@@ -540,16 +528,22 @@
 		"common": 3
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 254,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 443,
-		"common": 3
+		"ips": 445,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 162,
-		"common": 19
+		"ips": 158,
+		"common": 16
 	},
 	{
 		"name": "urandomusto_vnc",

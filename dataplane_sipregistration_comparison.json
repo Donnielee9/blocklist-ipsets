@@ -26,19 +26,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 24747,
-		"common": 2
+		"ips": 24668,
+		"common": 3
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9029,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 169,
+		"ips": 172,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 6993,
+		"ips": 6915,
 		"common": 1
 	},
 	{
@@ -110,8 +116,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 33354,
-		"common": 3
+		"ips": 33266,
+		"common": 4
 	},
 	{
 		"name": "firehol_level3",
@@ -226,6 +232,12 @@
 		"category": "reputation",
 		"ips": 29559,
 		"common": 36
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 158,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
