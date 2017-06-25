@@ -320,7 +320,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6881,
+		"ips": 6879,
 		"common": 25
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 348326,
+		"ips": 348425,
 		"common": 5586
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 53844,
+		"ips": 53859,
 		"common": 2372
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 35875,
+		"ips": 35869,
 		"common": 298
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 40591,
+		"ips": 40587,
 		"common": 2353
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2675,
+		"ips": 2665,
 		"common": 42
 	},
 	{
@@ -1149,7 +1149,7 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 9
+		"common": 15
 	},
 	{
 		"name": "socks_proxy_1d",
@@ -1160,7 +1160,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23445,
+		"ips": 23440,
 		"common": 1333
 	},
 	{
@@ -1233,24 +1233,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 3
+		"common": 1
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1146,
+		"ips": 1145,
 		"common": 45
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5093,
+		"ips": 5092,
 		"common": 145
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2437,
+		"ips": 2435,
 		"common": 79
 	},
 	{
@@ -1358,19 +1358,25 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 242,
-		"common": 4
+		"ips": 245,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 212,
-		"common": 1
+		"ips": 220,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 199,
+		"ips": 200,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 437,
 		"common": 1
 	},
 	{

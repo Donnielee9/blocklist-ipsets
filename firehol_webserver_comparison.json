@@ -638,7 +638,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6881,
+		"ips": 6879,
 		"common": 1669
 	},
 	{
@@ -662,8 +662,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 348326,
-		"common": 9659
+		"ips": 348425,
+		"common": 9689
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -932,8 +932,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 53844,
-		"common": 6259
+		"ips": 53859,
+		"common": 6260
 	},
 	{
 		"name": "firehol_level1",
@@ -944,7 +944,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 35875,
+		"ips": 35869,
 		"common": 8375
 	},
 	{
@@ -962,8 +962,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 40591,
-		"common": 3456
+		"ips": 40587,
+		"common": 3455
 	},
 	{
 		"name": "firehol_webclient",
@@ -998,8 +998,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2675,
-		"common": 363
+		"ips": 2665,
+		"common": 361
 	},
 	{
 		"name": "haley_ssh",
@@ -1815,7 +1815,7 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 16
+		"common": 4
 	},
 	{
 		"name": "socks_proxy_1d",
@@ -1826,8 +1826,8 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23445,
-		"common": 1086
+		"ips": 23440,
+		"common": 1085
 	},
 	{
 		"name": "socks_proxy_7d",
@@ -1911,24 +1911,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 19
+		"common": 17
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1146,
-		"common": 357
+		"ips": 1145,
+		"common": 356
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5093,
+		"ips": 5092,
 		"common": 960
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2437,
+		"ips": 2435,
 		"common": 573
 	},
 	{
@@ -2043,13 +2043,19 @@
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 175,
-		"common": 39
+		"common": 40
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 242,
-		"common": 29
+		"ips": 245,
+		"common": 22
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 220,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_malware",
@@ -2066,7 +2072,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 199,
+		"ips": 200,
 		"common": 26
 	},
 	{
@@ -2085,19 +2091,19 @@
 		"name": "urandomusto_ssh",
 		"category": "attacks",
 		"ips": 182,
-		"common": 5
+		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 439,
-		"common": 5
+		"ips": 437,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 173,
-		"common": 29
+		"ips": 166,
+		"common": 26
 	},
 	{
 		"name": "urandomusto_vnc",
