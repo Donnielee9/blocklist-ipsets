@@ -92,32 +92,32 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 1994,
+		"ips": 1993,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6141,
-		"common": 6
+		"ips": 6130,
+		"common": 7
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7507,
-		"common": 6
+		"ips": 7501,
+		"common": 7
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25472,
-		"common": 10
+		"ips": 25469,
+		"common": 11
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11844,
-		"common": 7
+		"ips": 11840,
+		"common": 8
 	},
 	{
 		"name": "blocklist_de",
@@ -176,7 +176,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 38790,
+		"ips": 38748,
 		"common": 84
 	},
 	{
@@ -218,19 +218,19 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 58,
-		"common": 12
+		"ips": 65,
+		"common": 11
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1141,
+		"ips": 1144,
 		"common": 23
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15950,
+		"ips": 15957,
 		"common": 35
 	},
 	{
@@ -270,33 +270,39 @@
 		"common": 7
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2519,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 30726,
-		"common": 16
+		"ips": 30637,
+		"common": 17
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 118054,
+		"ips": 118071,
 		"common": 73
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 70096,
+		"ips": 70105,
 		"common": 52
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1465,
+		"ips": 1462,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 23949,
+		"ips": 23948,
 		"common": 5
 	},
 	{
@@ -306,21 +312,27 @@
 		"common": 2
 	},
 	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 35463,
-		"common": 14
+		"ips": 35379,
+		"common": 15
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 153712,
+		"ips": 153743,
 		"common": 103
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 87355,
+		"ips": 87372,
 		"common": 76
 	},
 	{
@@ -362,13 +374,13 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 377,
+		"ips": 375,
 		"common": 76
 	},
 	{
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
-		"ips": 117,
+		"ips": 119,
 		"common": 1
 	},
 	{
@@ -386,13 +398,13 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 577,
+		"ips": 578,
 		"common": 76
 	},
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6899,
+		"ips": 6863,
 		"common": 9
 	},
 	{
@@ -524,19 +536,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39044,
-		"common": 42
+		"ips": 38953,
+		"common": 43
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 264452,
+		"ips": 264474,
 		"common": 130
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 53903,
+		"ips": 53941,
 		"common": 16
 	},
 	{
@@ -548,8 +560,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 32911,
-		"common": 7827
+		"ips": 32917,
+		"common": 7828
 	},
 	{
 		"name": "firehol_level3",
@@ -560,7 +572,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9617767,
+		"ips": 9617732,
 		"common": 338
 	},
 	{
@@ -596,8 +608,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1911,
-		"common": 106
+		"ips": 1918,
+		"common": 107
 	},
 	{
 		"name": "haley_ssh",
@@ -788,7 +800,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28653,
+		"ips": 28146,
 		"common": 3
 	},
 	{
@@ -1112,8 +1124,8 @@
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
-		"ips": 29559,
-		"common": 705
+		"ips": 30995,
+		"common": 1069
 	},
 	{
 		"name": "urandomusto_dns",
