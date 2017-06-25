@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 38332,
+		"ips": 38327,
 		"common": 3
 	},
 	{
@@ -260,13 +260,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 16175,
+		"ips": 16097,
 		"common": 64
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 13861,
+		"ips": 13783,
 		"common": 6
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9617262,
+		"ips": 9617257,
 		"common": 19
 	},
 	{
@@ -507,6 +507,12 @@
 		"name": "maxmind_proxy_fraud",
 		"category": "anonymizers",
 		"ips": 455,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 28443,
 		"common": 1
 	},
 	{
