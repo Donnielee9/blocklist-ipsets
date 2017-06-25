@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39049,
+		"ips": 39059,
 		"common": 6
 	},
 	{
@@ -266,20 +266,20 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 53974,
+		"ips": 53976,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653539595,
+		"ips": 653539602,
 		"common": 4
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 34273,
-		"common": 2
+		"ips": 34275,
+		"common": 3
 	},
 	{
 		"name": "firehol_level3",
@@ -290,13 +290,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9617111,
+		"ips": 9617109,
 		"common": 35
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 40718,
+		"ips": 40720,
 		"common": 1
 	},
 	{
@@ -320,8 +320,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1566,
-		"common": 1
+		"ips": 1570,
+		"common": 2
 	},
 	{
 		"name": "haley_ssh",
@@ -566,7 +566,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23417,
+		"ips": 23418,
 		"common": 1
 	},
 	{
@@ -676,6 +676,12 @@
 		"category": "reputation",
 		"ips": 29559,
 		"common": 12
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 336,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
