@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 47282,
+		"ips": 47247,
 		"common": 60
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6897,
+		"ips": 6903,
 		"common": 12
 	},
 	{
@@ -290,8 +290,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 350775,
-		"common": 725
+		"ips": 350862,
+		"common": 726
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 53905,
+		"ips": 53924,
 		"common": 616
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 35108,
+		"ips": 35098,
 		"common": 139
 	},
 	{
@@ -386,7 +386,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625964,
+		"ips": 9625929,
 		"common": 380
 	},
 	{
@@ -434,7 +434,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2651,
+		"ips": 2640,
 		"common": 9
 	},
 	{
@@ -680,7 +680,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 25308,
+		"ips": 25418,
 		"common": 57
 	},
 	{
@@ -1130,8 +1130,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 264,
-		"common": 3
+		"ips": 277,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 258,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

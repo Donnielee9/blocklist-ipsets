@@ -140,13 +140,13 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6897,
+		"ips": 6903,
 		"common": 1
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 350775,
+		"ips": 350862,
 		"common": 26
 	},
 	{
@@ -182,13 +182,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 53905,
+		"ips": 53924,
 		"common": 19
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 35108,
+		"ips": 35098,
 		"common": 27
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625964,
+		"ips": 9625929,
 		"common": 8
 	},
 	{
@@ -266,8 +266,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 25308,
-		"common": 29
+		"ips": 25418,
+		"common": 24
 	},
 	{
 		"name": "php_commenters",
@@ -591,6 +591,12 @@
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
 		"ips": 1219,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 258,
 		"common": 1
 	}
 ]

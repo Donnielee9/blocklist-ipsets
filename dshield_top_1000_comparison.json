@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 47282,
+		"ips": 47247,
 		"common": 3
 	},
 	{
@@ -236,14 +236,14 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 257,
-		"common": 5
+		"ips": 258,
+		"common": 4
 	},
 	{
 		"name": "dataplane_dnsrdany",
 		"category": "attacks",
-		"ips": 25,
-		"common": 3
+		"ips": 24,
+		"common": 2
 	},
 	{
 		"name": "dataplane_dnsversion",
@@ -290,7 +290,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 350775,
+		"ips": 350862,
 		"common": 2
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 35108,
+		"ips": 35098,
 		"common": 30
 	},
 	{
@@ -386,7 +386,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625964,
+		"ips": 9625929,
 		"common": 20
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2651,
+		"ips": 2640,
 		"common": 10
 	},
 	{
@@ -740,8 +740,8 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 264,
-		"common": 2
+		"ips": 277,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -758,8 +758,20 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 69,
+		"ips": 72,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 305,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 162,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_vnc",

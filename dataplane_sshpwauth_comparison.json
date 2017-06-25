@@ -116,8 +116,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 47282,
-		"common": 370
+		"ips": 47247,
+		"common": 369
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -296,7 +296,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6897,
+		"ips": 6903,
 		"common": 216
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 350775,
+		"ips": 350862,
 		"common": 86
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 53905,
+		"ips": 53924,
 		"common": 228
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 35108,
+		"ips": 35098,
 		"common": 3318
 	},
 	{
@@ -482,8 +482,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625964,
-		"common": 1148
+		"ips": 9625929,
+		"common": 1147
 	},
 	{
 		"name": "firehol_proxies",
@@ -524,7 +524,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2651,
+		"ips": 2640,
 		"common": 38
 	},
 	{
@@ -776,8 +776,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 25308,
-		"common": 8
+		"ips": 25418,
+		"common": 9
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1076,8 +1076,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 197,
-		"common": 40
+		"ips": 305,
+		"common": 113
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 443,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_vnc",
