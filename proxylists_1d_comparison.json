@@ -98,25 +98,31 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6901,
+		"ips": 6865,
 		"common": 3
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 60,
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1144,
-		"common": 32
+		"ips": 1132,
+		"common": 33
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15957,
-		"common": 434
+		"ips": 15951,
+		"common": 433
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5626,
+		"ips": 5623,
 		"common": 147
 	},
 	{
@@ -194,8 +200,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 353857,
-		"common": 1854
+		"ips": 353965,
+		"common": 1866
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -236,8 +242,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38908,
-		"common": 736
+		"ips": 38904,
+		"common": 737
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -248,13 +254,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 53994,
+		"ips": 53927,
 		"common": 2755
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 32839,
+		"ips": 33524,
 		"common": 149
 	},
 	{
@@ -266,13 +272,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9617727,
-		"common": 458
+		"ips": 9617722,
+		"common": 457
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 40811,
+		"ips": 40812,
 		"common": 2761
 	},
 	{
@@ -470,7 +476,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 27675,
+		"ips": 27375,
 		"common": 144
 	},
 	{
@@ -729,7 +735,7 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 5
+		"common": 9
 	},
 	{
 		"name": "socks_proxy_1d",
@@ -740,13 +746,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23421,
+		"ips": 23422,
 		"common": 506
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4174,
+		"ips": 4175,
 		"common": 308
 	},
 	{
