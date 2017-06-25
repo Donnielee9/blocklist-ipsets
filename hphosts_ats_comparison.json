@@ -90,9 +90,21 @@
 		"common": 28
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 25696,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9050,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 547,
+		"ips": 543,
 		"common": 1
 	},
 	{
@@ -242,7 +254,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 350426,
+		"ips": 350515,
 		"common": 1
 	},
 	{
@@ -322,6 +334,12 @@
 		"category": "attacks",
 		"ips": 653539596,
 		"common": 149
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 35108,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",

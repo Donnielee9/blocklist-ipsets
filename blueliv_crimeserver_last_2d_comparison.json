@@ -126,9 +126,21 @@
 		"common": 3
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 25696,
+		"common": 4
+	},
+	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 301,
+		"ips": 300,
+		"common": 2
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 16179,
 		"common": 2
 	},
 	{
@@ -284,7 +296,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 350426,
+		"ips": 350515,
 		"common": 3
 	},
 	{
@@ -356,8 +368,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 18267,
-		"common": 7
+		"ips": 35108,
+		"common": 11
 	},
 	{
 		"name": "firehol_level3",
