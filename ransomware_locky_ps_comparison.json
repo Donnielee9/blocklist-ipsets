@@ -1,27 +1,27 @@
 [
 	{
-		"name": "bbcan177_ms1",
-		"category": "malware",
-		"ips": 5268568,
-		"common": 1
-	},
-	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 653534493,
 		"common": 2
 	},
 	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 30526,
+		"common": 2
+	},
+	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34741794,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26063,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -42,12 +42,6 @@
 		"common": 1
 	},
 	{
-		"name": "iblocklist_level3",
-		"category": "reputation",
-		"ips": 139023007,
-		"common": 1
-	},
-	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
@@ -57,19 +51,19 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5036,
-		"common": 4
+		"common": 3
+	},
+	{
+		"name": "ransomware_online",
+		"category": "malware",
+		"ips": 159,
+		"common": 2
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 351,
 		"common": 2
-	},
-	{
-		"name": "threatcrowd",
-		"category": "malware",
-		"ips": 6383,
-		"common": 1
 	},
 	{
 		"name": "urlvir",
