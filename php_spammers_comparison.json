@@ -26,37 +26,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 24323,
+		"ips": 24421,
 		"common": 26
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15954,
+		"ips": 16014,
 		"common": 26
 	},
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6972,
+		"ips": 6969,
 		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1126,
+		"ips": 1135,
 		"common": 2
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15915,
+		"ips": 15924,
 		"common": 7
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5569,
+		"ips": 5583,
 		"common": 5
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6966,
+		"ips": 6958,
 		"common": 1
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 127410,
+		"ips": 127409,
 		"common": 4
 	},
 	{
@@ -164,7 +164,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39179,
+		"ips": 39181,
 		"common": 50
 	},
 	{
@@ -176,13 +176,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 53988,
+		"ips": 53980,
 		"common": 19
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 33426,
+		"ips": 33526,
 		"common": 26
 	},
 	{
@@ -194,13 +194,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9617217,
+		"ips": 9617237,
 		"common": 8
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 40726,
+		"ips": 40727,
 		"common": 18
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28025,
+		"ips": 27662,
 		"common": 13
 	},
 	{
@@ -500,19 +500,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1109,
+		"ips": 1102,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5205,
+		"ips": 5206,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2519,
+		"ips": 2520,
 		"common": 1
 	},
 	{
@@ -585,6 +585,12 @@
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
 		"ips": 1222,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 448,
 		"common": 1
 	}
 ]
