@@ -62,7 +62,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25480,
+		"ips": 25484,
 		"common": 2
 	},
 	{
@@ -272,13 +272,13 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 592,
+		"ips": 591,
 		"common": 1
 	},
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6928,
+		"ips": 6881,
 		"common": 196
 	},
 	{
@@ -290,8 +290,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 351802,
-		"common": 204
+		"ips": 351896,
+		"common": 206
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -398,7 +398,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 53950,
+		"ips": 53854,
 		"common": 394
 	},
 	{
@@ -410,8 +410,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 34937,
-		"common": 172
+		"ips": 33748,
+		"common": 161
 	},
 	{
 		"name": "firehol_level3",
@@ -428,7 +428,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 40608,
+		"ips": 40612,
 		"common": 273
 	},
 	{
@@ -470,8 +470,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2624,
-		"common": 21
+		"ips": 1083,
+		"common": 8
 	},
 	{
 		"name": "haley_ssh",
@@ -915,12 +915,12 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1803,
+		"ips": 1795,
 		"common": 26
 	},
 	{
@@ -932,7 +932,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4245,
+		"ips": 4244,
 		"common": 31
 	},
 	{
@@ -986,19 +986,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1149,
+		"ips": 1148,
 		"common": 26
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5105,
+		"ips": 5109,
 		"common": 57
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2426,
+		"ips": 2430,
 		"common": 37
 	},
 	{
@@ -1070,13 +1070,13 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 925,
+		"ips": 922,
 		"common": 203
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 983,
+		"ips": 980,
 		"common": 207
 	},
 	{
@@ -1106,8 +1106,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 277,
+		"ips": 294,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 253,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_malware",
