@@ -56,13 +56,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 25567,
-		"common": 300
+		"ips": 25626,
+		"common": 301
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9052,
+		"common": 2
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 47247,
+		"ips": 47226,
 		"common": 66
 	},
 	{
@@ -206,19 +212,19 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 16691,
+		"ips": 16644,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 14349,
+		"ips": 14309,
 		"common": 1
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 350954,
+		"ips": 351136,
 		"common": 1
 	},
 	{
@@ -308,8 +314,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 35098,
-		"common": 299
+		"ips": 35029,
+		"common": 301
 	},
 	{
 		"name": "firehol_level3",
@@ -320,7 +326,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625929,
+		"ips": 9625909,
 		"common": 70
 	},
 	{
@@ -472,6 +478,12 @@
 		"category": "spam",
 		"ips": 1338633,
 		"common": 4
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 25319,
+		"common": 1
 	},
 	{
 		"name": "packetmail",
