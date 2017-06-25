@@ -14,13 +14,19 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 80,
+		"ips": 99,
 		"common": 1
 	},
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 307,
+		"common": 1
+	},
+	{
+		"name": "bambenek_simda",
+		"category": "malware",
+		"ips": 120,
 		"common": 1
 	},
 	{
@@ -122,13 +128,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 24685,
-		"common": 615
+		"ips": 24590,
+		"common": 617
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9004,
+		"ips": 9010,
 		"common": 39
 	},
 	{
@@ -152,14 +158,14 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2141,
-		"common": 74
+		"ips": 2150,
+		"common": 75
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15770,
-		"common": 478
+		"ips": 15805,
+		"common": 482
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -170,8 +176,8 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 6874,
-		"common": 93
+		"ips": 6800,
+		"common": 91
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -182,8 +188,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 45283,
-		"common": 1536
+		"ips": 44686,
+		"common": 1516
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -734,8 +740,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 34275,
-		"common": 656
+		"ips": 34181,
+		"common": 658
 	},
 	{
 		"name": "firehol_level3",
@@ -746,8 +752,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9624001,
-		"common": 6413
+		"ips": 9623422,
+		"common": 6393
 	},
 	{
 		"name": "firehol_proxies",
@@ -986,7 +992,7 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762690872,
+		"ips": 762624089,
 		"common": 37014
 	},
 	{
@@ -1190,14 +1196,14 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 112,
-		"common": 3
+		"ips": 128,
+		"common": 4
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2124,
-		"common": 31
+		"ips": 2099,
+		"common": 30
 	},
 	{
 		"name": "php_commenters",

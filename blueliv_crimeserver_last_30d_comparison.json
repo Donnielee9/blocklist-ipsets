@@ -44,8 +44,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 80,
-		"common": 20
+		"ips": 99,
+		"common": 24
 	},
 	{
 		"name": "bambenek_c2",
@@ -68,8 +68,8 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 111,
-		"common": 28
+		"ips": 120,
+		"common": 32
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -152,13 +152,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 24685,
+		"ips": 24590,
 		"common": 20
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9004,
+		"ips": 9010,
 		"common": 1
 	},
 	{
@@ -176,19 +176,19 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2141,
+		"ips": 2150,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15770,
+		"ips": 15805,
 		"common": 16
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 45283,
+		"ips": 44686,
 		"common": 176
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 34275,
+		"ips": 34181,
 		"common": 34
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9624001,
+		"ips": 9623422,
 		"common": 1566
 	},
 	{
@@ -800,7 +800,7 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762690872,
+		"ips": 762624089,
 		"common": 1808
 	},
 	{
@@ -964,12 +964,6 @@
 		"category": "reputation",
 		"ips": 29439,
 		"common": 12
-	},
-	{
-		"name": "packetmail_ramnode",
-		"category": "reputation",
-		"ips": 2124,
-		"common": 1
 	},
 	{
 		"name": "php_commenters_30d",
