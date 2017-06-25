@@ -92,13 +92,13 @@
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 170,
+		"ips": 168,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 7121,
+		"ips": 7034,
 		"common": 1
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 591,
+		"ips": 590,
 		"common": 3
 	},
 	{
@@ -164,7 +164,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 352914,
+		"ips": 353007,
 		"common": 1
 	},
 	{
@@ -212,13 +212,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653539575,
+		"ips": 653539576,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 33520,
+		"ips": 33961,
 		"common": 3
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1083,
+		"ips": 1632,
 		"common": 1
 	},
 	{
@@ -388,6 +388,12 @@
 		"category": "reputation",
 		"ips": 29559,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 272,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
