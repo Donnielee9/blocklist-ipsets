@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32188,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "bambenek_banjori",
@@ -15,7 +15,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 313,
-		"common": 63
+		"common": 62
 	},
 	{
 		"name": "bambenek_pykspa",
@@ -34,6 +34,12 @@
 		"category": "malware",
 		"ips": 114,
 		"common": 4
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 40094,
+		"common": 1
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -81,7 +87,19 @@
 		"name": "cleanmx_viruses",
 		"category": "spam",
 		"ips": 12190,
-		"common": 5
+		"common": 6
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 117896,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 153567,
+		"common": 1
 	},
 	{
 		"name": "cta_cryptowall",
@@ -90,34 +108,40 @@
 		"common": 2
 	},
 	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 264874,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 653522192,
-		"common": 63
+		"common": 62
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619102,
-		"common": 7
+		"ips": 9619091,
+		"common": 9
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739802,
-		"common": 40
+		"common": 41
 	},
 	{
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 15127,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26121,
-		"common": 32
+		"common": 33
 	},
 	{
 		"name": "hphosts_exp",
@@ -129,7 +153,7 @@
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 28157,
-		"common": 34
+		"common": 35
 	},
 	{
 		"name": "hphosts_grm",
@@ -159,7 +183,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 28559,
-		"common": 30
+		"common": 32
 	},
 	{
 		"name": "hphosts_wrz",
@@ -231,7 +255,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "malwaredomainlist",
@@ -248,7 +272,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5028,
+		"ips": 5026,
 		"common": 5
 	},
 	{
