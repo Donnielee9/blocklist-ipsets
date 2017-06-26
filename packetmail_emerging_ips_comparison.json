@@ -39,12 +39,18 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 5929,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 1717,
+		"common": 1
+	},
+	{
+		"name": "bi_http_2_30d",
+		"category": "attacks",
+		"ips": 107,
 		"common": 1
 	},
 	{
@@ -153,7 +159,7 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 153734,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "cleantalk_updated_7d",
@@ -171,7 +177,7 @@
 		"name": "cybercrime",
 		"category": "malware",
 		"ips": 27028,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -261,7 +267,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 264497,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "firehol_anonymous",
@@ -279,7 +285,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 34847,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "firehol_level3",
@@ -291,7 +297,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9619288,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "firehol_proxies",
@@ -303,13 +309,13 @@
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 30645,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739948,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "gofferje_sip",
@@ -327,7 +333,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2402,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "hphosts_ats",
@@ -417,7 +423,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762624089,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "iblocklist_level2",
@@ -444,10 +450,16 @@
 		"common": 1
 	},
 	{
+		"name": "ipblacklistcloud_top",
+		"category": "abuse",
+		"ips": 232,
+		"common": 1
+	},
+	{
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "jigsaw_malware",
@@ -476,7 +488,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 24339,
+		"ips": 24156,
 		"common": 1
 	},
 	{
@@ -489,7 +501,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "ransomware_feed",
