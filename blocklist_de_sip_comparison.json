@@ -18,40 +18,16 @@
 		"common": 1
 	},
 	{
-		"name": "bi_any_2_1d",
-		"category": "attacks",
-		"ips": 1193,
-		"common": 1
-	},
-	{
-		"name": "bi_any_2_30d",
-		"category": "attacks",
-		"ips": 5929,
-		"common": 1
-	},
-	{
-		"name": "bi_any_2_7d",
-		"category": "attacks",
-		"ips": 2080,
-		"common": 1
-	},
-	{
-		"name": "bi_ssh_2_30d",
-		"category": "attacks",
-		"ips": 4539,
-		"common": 1
-	},
-	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 23231,
-		"common": 130
+		"ips": 23197,
+		"common": 125
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 38774,
-		"common": 19
+		"common": 17
 	},
 	{
 		"name": "ciarmy",
@@ -116,13 +92,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 15512,
+		"ips": 15459,
 		"common": 2
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 13220,
+		"ips": 13166,
 		"common": 1
 	},
 	{
@@ -152,8 +128,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 32947,
-		"common": 130
+		"ips": 32917,
+		"common": 125
 	},
 	{
 		"name": "firehol_level3",
@@ -165,7 +141,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9617761,
-		"common": 24
+		"common": 22
 	},
 	{
 		"name": "firehol_webclient",
@@ -177,13 +153,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34741794,
-		"common": 23
+		"common": 22
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095897,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "greensnow",
@@ -216,12 +192,6 @@
 		"common": 1
 	},
 	{
-		"name": "iblocklist_isp_att",
-		"category": "organizations",
-		"ips": 55845128,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_isp_twc",
 		"category": "organizations",
 		"ips": 15015936,
@@ -231,7 +201,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762624089,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "iblocklist_level2",
@@ -291,7 +261,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 23
+		"common": 22
 	},
 	{
 		"name": "sorbs_dul",
@@ -339,6 +309,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 28257,
-		"common": 35
+		"common": 33
 	}
 ]
