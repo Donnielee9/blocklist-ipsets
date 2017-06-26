@@ -14,7 +14,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40139,
+		"ips": 40123,
 		"common": 1
 	},
 	{
@@ -66,6 +66,12 @@
 		"common": 1
 	},
 	{
+		"name": "dm_tor",
+		"category": "anonymizers",
+		"ips": 6893,
+		"common": 1
+	},
+	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 354452,
@@ -80,7 +86,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 50604,
+		"ips": 50677,
 		"common": 1
 	},
 	{
@@ -246,21 +252,27 @@
 		"common": 3
 	},
 	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 54069,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653518373,
+		"ips": 653518384,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 127745,
+		"ips": 128000,
 		"common": 208
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619174,
+		"ips": 9619171,
 		"common": 4
 	},
 	{
@@ -368,7 +380,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28097,
+		"ips": 29008,
 		"common": 1
 	},
 	{
