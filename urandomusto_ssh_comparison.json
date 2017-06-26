@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 613,
+		"ips": 288,
 		"common": 14
 	},
 	{
@@ -50,13 +50,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 23630,
+		"ips": 23587,
 		"common": 98
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5321,
+		"ips": 5270,
 		"common": 98
 	},
 	{
@@ -86,19 +86,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1124,
+		"ips": 1151,
 		"common": 3
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15978,
+		"ips": 15956,
 		"common": 3
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5605,
+		"ips": 5575,
 		"common": 3
 	},
 	{
@@ -164,13 +164,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 15289,
+		"ips": 15228,
 		"common": 103
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 13006,
+		"ips": 12948,
 		"common": 86
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35159,
+		"ips": 35165,
 		"common": 3
 	},
 	{
@@ -260,37 +260,37 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 53988,
+		"ips": 53990,
 		"common": 4
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653522191,
+		"ips": 653522202,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 33386,
+		"ips": 32698,
 		"common": 100
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129565,
+		"ips": 129570,
 		"common": 42
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9618159,
+		"ips": 9618136,
 		"common": 62
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 40876,
+		"ips": 40878,
 		"common": 2
 	},
 	{
@@ -314,8 +314,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2492,
-		"common": 5
+		"ips": 1581,
+		"common": 4
 	},
 	{
 		"name": "haley_ssh",
@@ -406,6 +406,12 @@
 		"category": "anonymizers",
 		"ips": 455,
 		"common": 2
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 30179,
+		"common": 1
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -536,7 +542,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 13598,
+		"ips": 13600,
 		"common": 3
 	},
 	{
