@@ -32,13 +32,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 117842,
+		"ips": 117831,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 153475,
+		"ips": 153460,
 		"common": 1
 	},
 	{
@@ -80,14 +80,14 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 264696,
+		"ips": 264692,
 		"common": 3
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653522189,
-		"common": 353
+		"ips": 653522191,
+		"common": 355
 	},
 	{
 		"name": "firehol_level3",
@@ -98,20 +98,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9618151,
+		"ips": 9618125,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 30572,
-		"common": 6
+		"common": 8
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34741794,
-		"common": 70
+		"common": 72
 	},
 	{
 		"name": "gofferje_sip",
@@ -129,7 +129,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26063,
-		"common": 20
+		"common": 22
 	},
 	{
 		"name": "hphosts_exp",
@@ -183,7 +183,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 54
+		"common": 55
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -195,13 +195,13 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762624089,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "iblocklist_level2",
@@ -249,13 +249,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 40
+		"common": 41
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5028,
-		"common": 261
+		"common": 263
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -264,10 +264,16 @@
 		"common": 252
 	},
 	{
+		"name": "ransomware_locky_ps",
+		"category": "malware",
+		"ips": 3,
+		"common": 2
+	},
+	{
 		"name": "ransomware_online",
 		"category": "malware",
 		"ips": 158,
-		"common": 4
+		"common": 6
 	},
 	{
 		"name": "ransomware_torrentlocker_c2",
@@ -364,6 +370,12 @@
 		"category": "malware",
 		"ips": 6383,
 		"common": 44
+	},
+	{
+		"name": "urlvir",
+		"category": "malware",
+		"ips": 201,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
