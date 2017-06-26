@@ -158,8 +158,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653522206,
-		"common": 5
+		"ips": 653522192,
+		"common": 6
 	},
 	{
 		"name": "firehol_level2",
@@ -170,7 +170,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 127524,
+		"ips": 127523,
 		"common": 4
 	},
 	{
@@ -182,8 +182,8 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 30572,
-		"common": 156
+		"ips": 30573,
+		"common": 157
 	},
 	{
 		"name": "firehol_webserver",
@@ -231,7 +231,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_edu",
@@ -326,8 +326,14 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5027,
-		"common": 156
+		"ips": 5028,
+		"common": 157
+	},
+	{
+		"name": "ransomware_locky_c2",
+		"category": "malware",
+		"ips": 260,
+		"common": 1
 	},
 	{
 		"name": "ransomware_locky_ps",
@@ -339,7 +345,7 @@
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 355,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "sorbs_dul",
