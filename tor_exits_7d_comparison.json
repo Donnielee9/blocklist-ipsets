@@ -110,8 +110,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40083,
-		"common": 150
+		"ips": 40022,
+		"common": 149
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -134,8 +134,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6905,
-		"common": 886
+		"ips": 6897,
+		"common": 884
 	},
 	{
 		"name": "botscout",
@@ -266,14 +266,14 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 571,
+		"ips": 568,
 		"common": 1
 	},
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6902,
-		"common": 886
+		"ips": 6894,
+		"common": 884
 	},
 	{
 		"name": "dragon_http",
@@ -316,12 +316,6 @@
 		"category": "malware",
 		"ips": 127479,
 		"common": 27
-	},
-	{
-		"name": "dshield_1d",
-		"category": "attacks",
-		"ips": 7680,
-		"common": 1
 	},
 	{
 		"name": "dshield_30d",
@@ -398,8 +392,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54020,
-		"common": 949
+		"ips": 54012,
+		"common": 947
 	},
 	{
 		"name": "firehol_level1",
@@ -410,8 +404,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 34686,
-		"common": 20
+		"ips": 34683,
+		"common": 19
 	},
 	{
 		"name": "firehol_level3",
@@ -422,8 +416,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619239,
-		"common": 591
+		"ips": 9619182,
+		"common": 590
 	},
 	{
 		"name": "firehol_proxies",
@@ -644,7 +638,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 24828,
+		"ips": 24687,
 		"common": 2
 	},
 	{
@@ -860,7 +854,7 @@
 	{
 		"name": "taichung",
 		"category": "attacks",
-		"ips": 13194,
+		"ips": 12748,
 		"common": 9
 	},
 	{
@@ -912,10 +906,16 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_ntp",
+		"category": "attacks",
+		"ips": 159,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 442,
-		"common": 3
+		"ips": 435,
+		"common": 2
 	},
 	{
 		"name": "voipbl",

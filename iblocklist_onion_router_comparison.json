@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40083,
+		"ips": 40022,
 		"common": 140
 	},
 	{
@@ -170,8 +170,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6905,
-		"common": 6252
+		"ips": 6897,
+		"common": 6249
 	},
 	{
 		"name": "botscout",
@@ -320,14 +320,14 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 571,
+		"ips": 568,
 		"common": 1
 	},
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6902,
-		"common": 6250
+		"ips": 6894,
+		"common": 6247
 	},
 	{
 		"name": "dragon_http",
@@ -356,7 +356,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 311963,
+		"ips": 311962,
 		"common": 8
 	},
 	{
@@ -382,12 +382,6 @@
 		"category": "malware",
 		"ips": 127479,
 		"common": 25
-	},
-	{
-		"name": "dshield_1d",
-		"category": "attacks",
-		"ips": 7680,
-		"common": 1
 	},
 	{
 		"name": "dshield_30d",
@@ -482,8 +476,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54020,
-		"common": 6280
+		"ips": 54012,
+		"common": 6274
 	},
 	{
 		"name": "firehol_level1",
@@ -494,8 +488,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 34686,
-		"common": 18
+		"ips": 34683,
+		"common": 17
 	},
 	{
 		"name": "firehol_level3",
@@ -506,7 +500,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619239,
+		"ips": 9619182,
 		"common": 553
 	},
 	{
@@ -794,7 +788,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 24828,
+		"ips": 24687,
 		"common": 1
 	},
 	{
@@ -1130,7 +1124,7 @@
 	{
 		"name": "taichung",
 		"category": "attacks",
-		"ips": 13194,
+		"ips": 12748,
 		"common": 9
 	},
 	{
@@ -1188,10 +1182,16 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_ntp",
+		"category": "attacks",
+		"ips": 159,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 442,
-		"common": 3
+		"ips": 435,
+		"common": 2
 	},
 	{
 		"name": "uscert_hidden_cobra",
