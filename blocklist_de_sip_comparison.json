@@ -44,8 +44,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 23297,
-		"common": 128
+		"ips": 23231,
+		"common": 130
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -152,8 +152,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 33014,
-		"common": 128
+		"ips": 32951,
+		"common": 130
 	},
 	{
 		"name": "firehol_level3",
@@ -177,7 +177,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34741794,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "gofferje_sip",
@@ -231,7 +231,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762624089,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "iblocklist_level2",
@@ -270,6 +270,12 @@
 		"common": 2
 	},
 	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 1268985,
+		"common": 1
+	},
+	{
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3166,
@@ -279,13 +285,13 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2155,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "sorbs_dul",
@@ -333,6 +339,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 28257,
-		"common": 34
+		"common": 35
 	}
 ]
