@@ -26,7 +26,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40034,
+		"ips": 40057,
 		"common": 24
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
-		"ips": 2862,
+		"ips": 2861,
 		"common": 2
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35914,
+		"ips": 36038,
 		"common": 9
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619034,
+		"ips": 9619052,
 		"common": 28
 	},
 	{
@@ -414,12 +414,6 @@
 		"common": 10
 	},
 	{
-		"name": "nixspam",
-		"category": "spam",
-		"ips": 28012,
-		"common": 1
-	},
-	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
 		"ips": 6189,
@@ -544,6 +538,12 @@
 		"category": "abuse",
 		"ips": 292691,
 		"common": 13
+	},
+	{
+		"name": "stopforumspam_1d",
+		"category": "abuse",
+		"ips": 7019,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_30d",
