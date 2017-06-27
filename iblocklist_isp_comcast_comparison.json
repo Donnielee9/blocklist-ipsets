@@ -110,19 +110,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 27103,
+		"ips": 27092,
 		"common": 95
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9148,
+		"ips": 9153,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 875,
+		"ips": 867,
 		"common": 1
 	},
 	{
@@ -134,19 +134,19 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18046,
+		"ips": 18037,
 		"common": 49
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 180,
+		"ips": 179,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 6803,
+		"ips": 6808,
 		"common": 43
 	},
 	{
@@ -344,13 +344,13 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 375,
+		"ips": 374,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
-		"ips": 119,
+		"ips": 120,
 		"common": 1
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 564,
+		"ips": 562,
 		"common": 5
 	},
 	{
@@ -650,7 +650,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36628,
+		"ips": 36610,
 		"common": 97
 	},
 	{
@@ -1092,6 +1092,12 @@
 		"common": 3
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
 		"ips": 1902,
@@ -1166,7 +1172,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5329,
+		"ips": 5328,
 		"common": 7
 	},
 	{
