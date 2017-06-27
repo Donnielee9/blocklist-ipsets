@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40362,
+		"ips": 40341,
 		"common": 69
 	},
 	{
@@ -150,45 +150,57 @@
 		"common": 1
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2480,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 32356,
+		"ips": 32237,
 		"common": 34
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 119214,
+		"ips": 119205,
 		"common": 44
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 70027,
+		"ips": 70012,
 		"common": 43
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 24186,
+		"ips": 24170,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 36314,
+		"ips": 36140,
 		"common": 40
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 155295,
+		"ips": 155302,
 		"common": 61
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 87179,
+		"ips": 87178,
 		"common": 60
 	},
 	{
@@ -260,7 +272,7 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 29440,
+		"ips": 29184,
 		"common": 50
 	},
 	{
@@ -302,19 +314,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39806,
+		"ips": 39648,
 		"common": 54
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 265254,
+		"ips": 265261,
 		"common": 60
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54250,
+		"ips": 54247,
 		"common": 6
 	},
 	{
@@ -332,13 +344,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 128815,
+		"ips": 128560,
 		"common": 53
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619639,
+		"ips": 9619604,
 		"common": 112
 	},
 	{
@@ -356,7 +368,7 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34739170,
+		"ips": 34739115,
 		"common": 42
 	},
 	{
@@ -788,14 +800,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 185,
+		"ips": 182,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 213,
-		"common": 9
+		"ips": 304,
+		"common": 4
 	},
 	{
 		"name": "voipbl",
