@@ -110,25 +110,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 27458,
+		"ips": 27558,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9171,
+		"ips": 9186,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18184,
+		"ips": 18197,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 6983,
+		"ips": 7058,
 		"common": 3
 	},
 	{
@@ -170,8 +170,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6856,
-		"common": 6318
+		"ips": 6859,
+		"common": 6299
 	},
 	{
 		"name": "botscout",
@@ -326,8 +326,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6843,
-		"common": 6304
+		"ips": 6856,
+		"common": 6297
 	},
 	{
 		"name": "dragon_http",
@@ -464,8 +464,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54153,
-		"common": 6352
+		"ips": 54111,
+		"common": 6320
 	},
 	{
 		"name": "firehol_level1",
@@ -476,7 +476,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36982,
+		"ips": 37073,
 		"common": 19
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41012,
+		"ips": 41014,
 		"common": 158
 	},
 	{
@@ -1046,13 +1046,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5361,
+		"ips": 5363,
 		"common": 3
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2510,
+		"ips": 2512,
 		"common": 2
 	},
 	{
@@ -1160,7 +1160,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 216,
+		"ips": 193,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 194,
 		"common": 1
 	},
 	{
@@ -1172,8 +1178,14 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 152,
+		"ips": 150,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 308,
+		"common": 2
 	},
 	{
 		"name": "uscert_hidden_cobra",

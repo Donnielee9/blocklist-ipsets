@@ -44,43 +44,43 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 27458,
+		"ips": 27558,
 		"common": 21
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9171,
+		"ips": 9186,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 333,
+		"ips": 335,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3202,
+		"ips": 3218,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18184,
+		"ips": 18197,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 6983,
+		"ips": 7058,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 146,
+		"ips": 147,
 		"common": 2
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6856,
+		"ips": 6859,
 		"common": 1
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6843,
+		"ips": 6856,
 		"common": 1
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54153,
+		"ips": 54111,
 		"common": 2
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36982,
+		"ips": 37073,
 		"common": 5120
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41012,
+		"ips": 41014,
 		"common": 1
 	},
 	{
@@ -440,13 +440,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5361,
+		"ips": 5363,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2510,
+		"ips": 2512,
 		"common": 1
 	},
 	{
@@ -518,20 +518,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 204,
+		"ips": 208,
 		"common": 6
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 216,
-		"common": 4
+		"ips": 193,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 152,
-		"common": 16
+		"ips": 150,
+		"common": 18
 	},
 	{
 		"name": "urandomusto_rdp",
@@ -542,20 +542,26 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 103,
+		"ips": 104,
 		"common": 8
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 171,
+		"ips": 308,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 439,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 206,
-		"common": 21
+		"ips": 203,
+		"common": 20
 	},
 	{
 		"name": "urandomusto_vnc",
