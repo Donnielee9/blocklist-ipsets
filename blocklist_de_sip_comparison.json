@@ -38,8 +38,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 26173,
-		"common": 134
+		"ips": 26279,
+		"common": 136
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40312,
+		"ips": 40309,
 		"common": 24
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 368,
+		"ips": 367,
 		"common": 7
 	},
 	{
@@ -189,7 +189,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 264837,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "firehol_level1",
@@ -200,8 +200,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 35368,
-		"common": 134
+		"ips": 35469,
+		"common": 136
 	},
 	{
 		"name": "firehol_level3",
@@ -212,7 +212,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619455,
+		"ips": 9619453,
 		"common": 30
 	},
 	{
@@ -360,6 +360,12 @@
 		"common": 1
 	},
 	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 3314,
+		"common": 1
+	},
+	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2195,
@@ -399,13 +405,13 @@
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 155707,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 292691,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -417,7 +423,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 537988,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -429,7 +435,7 @@
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 157324,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "stopforumspam_toxic",
