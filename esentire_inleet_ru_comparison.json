@@ -20,19 +20,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 25883,
+		"ips": 25945,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5930,
+		"ips": 5984,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40258,
+		"ips": 40273,
 		"common": 1
 	},
 	{
@@ -62,25 +62,25 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 118216,
+		"ips": 118189,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 153852,
+		"ips": 153815,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 14247,
+		"ips": 14191,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 12001,
+		"ips": 11948,
 		"common": 1
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 264731,
+		"ips": 264715,
 		"common": 2
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 35086,
+		"ips": 35143,
 		"common": 1
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619418,
+		"ips": 9619432,
 		"common": 1
 	},
 	{
@@ -490,6 +490,12 @@
 		"category": "reputation",
 		"ips": 30995,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 444,
+		"common": 1
 	},
 	{
 		"name": "xforce_bccs",
