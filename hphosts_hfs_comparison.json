@@ -14,7 +14,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 104,
+		"ips": 90,
 		"common": 7
 	},
 	{
@@ -26,8 +26,8 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 126,
-		"common": 2
+		"ips": 128,
+		"common": 3
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -40,6 +40,24 @@
 		"category": "malware",
 		"ips": 5268568,
 		"common": 4
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 28385,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 3523,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 18611,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -214,6 +232,12 @@
 		"category": "attacks",
 		"ips": 653518397,
 		"common": 15
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 37367,
+		"common": 1
 	},
 	{
 		"name": "firehol_level4",
