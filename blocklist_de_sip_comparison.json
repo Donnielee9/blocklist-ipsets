@@ -15,7 +15,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 5532,
-		"common": 1
+		"common": 4
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -39,19 +39,25 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 27236,
-		"common": 140
+		"common": 144
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 6881,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 147,
-		"common": 1
+		"ips": 146,
+		"common": 4
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41442,
-		"common": 23
+		"ips": 41410,
+		"common": 26
 	},
 	{
 		"name": "bruteforceblocker",
@@ -141,7 +147,7 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 14018,
-		"common": 4
+		"common": 7
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -165,6 +171,12 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 29696,
+		"common": 4
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 15104,
 		"common": 1
 	},
 	{
@@ -219,19 +231,19 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 36761,
-		"common": 140
+		"common": 144
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 128505,
-		"common": 5
+		"common": 8
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9620612,
-		"common": 29
+		"ips": 9620591,
+		"common": 32
 	},
 	{
 		"name": "firehol_webclient",
@@ -258,10 +270,16 @@
 		"common": 4
 	},
 	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 20377,
+		"common": 3
+	},
+	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -372,6 +390,12 @@
 		"common": 2
 	},
 	{
+		"name": "nt_ssh_7d",
+		"category": "attacks",
+		"ips": 156,
+		"common": 1
+	},
+	{
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3333,
@@ -466,6 +490,12 @@
 		"category": "attacks",
 		"ips": 12748,
 		"common": 2
+	},
+	{
+		"name": "trustedsec_atif",
+		"category": "reputation",
+		"ips": 1681,
+		"common": 3
 	},
 	{
 		"name": "turris_greylist",
