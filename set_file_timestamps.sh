@@ -394,7 +394,7 @@
 [ -f 'dronebl_irc_drones.netset' ] && /usr/bin/touch --date=@1498573209 'dronebl_irc_drones.netset'
 [ -f 'dronebl_unknown.netset' ] && /usr/bin/touch --date=@1498184408 'dronebl_unknown.netset'
 [ -f 'dronebl_worms_bots.netset' ] && /usr/bin/touch --date=@1498580409 'dronebl_worms_bots.netset'
-[ -f 'dshield.netset' ] && /usr/bin/touch --date=@1498577421 'dshield.netset'
+[ -f 'dshield.netset' ] && /usr/bin/touch --date=@1498584622 'dshield.netset'
 [ -f 'dshield_1d.netset' ] && /usr/bin/touch --date=@1498582404 'dshield_1d.netset'
 [ -f 'dshield_30d.netset' ] && /usr/bin/touch --date=@1498579226 'dshield_30d.netset'
 [ -f 'dshield_7d.netset' ] && /usr/bin/touch --date=@1498577421 'dshield_7d.netset'
