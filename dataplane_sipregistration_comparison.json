@@ -26,13 +26,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30540,
+		"ips": 30658,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9213,
+		"ips": 9217,
 		"common": 1
 	},
 	{
@@ -44,8 +44,14 @@
 	{
 		"name": "dataplane_sipinvitation",
 		"category": "attacks",
-		"ips": 38,
+		"ips": 37,
 		"common": 2
+	},
+	{
+		"name": "dataplane_sipquery",
+		"category": "attacks",
+		"ips": 368,
+		"common": 1
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -92,7 +98,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39862,
+		"ips": 39991,
 		"common": 3
 	},
 	{
@@ -104,7 +110,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619514,
+		"ips": 9619590,
 		"common": 1
 	},
 	{
@@ -122,7 +128,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2461,
+		"ips": 2474,
 		"common": 2
 	},
 	{
@@ -231,7 +237,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 30995,
-		"common": 37
+		"common": 38
 	},
 	{
 		"name": "urandomusto_unspecified",
@@ -243,6 +249,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 28277,
-		"common": 42
+		"common": 43
 	}
 ]

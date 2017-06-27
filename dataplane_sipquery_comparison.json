@@ -50,7 +50,7 @@
 	{
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
-		"ips": 1296,
+		"ips": 1297,
 		"common": 9
 	},
 	{
@@ -68,25 +68,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30540,
-		"common": 29
+		"ips": 30658,
+		"common": 30
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9213,
+		"ips": 9217,
 		"common": 18
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 174,
-		"common": 9
+		"ips": 176,
+		"common": 10
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 9065,
+		"ips": 9163,
 		"common": 2
 	},
 	{
@@ -140,20 +140,26 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 303,
-		"common": 82
+		"ips": 305,
+		"common": 83
 	},
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
-		"ips": 197,
-		"common": 82
+		"ips": 200,
+		"common": 83
 	},
 	{
 		"name": "dataplane_sipinvitation",
 		"category": "attacks",
-		"ips": 38,
+		"ips": 37,
 		"common": 2
+	},
+	{
+		"name": "dataplane_sipregistration",
+		"category": "attacks",
+		"ips": 115,
+		"common": 1
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -165,7 +171,7 @@
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
 		"ips": 559,
-		"common": 58
+		"common": 59
 	},
 	{
 		"name": "dragon_http",
@@ -224,7 +230,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39945,
+		"ips": 39946,
 		"common": 1
 	},
 	{
@@ -248,8 +254,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39862,
-		"common": 103
+		"ips": 39991,
+		"common": 104
 	},
 	{
 		"name": "firehol_level3",
@@ -260,26 +266,26 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619514,
+		"ips": 9619590,
 		"common": 3
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41094,
+		"ips": 41095,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 30683,
+		"ips": 30760,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739115,
-		"common": 115
+		"common": 116
 	},
 	{
 		"name": "gofferje_sip",
@@ -290,7 +296,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2461,
+		"ips": 2474,
 		"common": 38
 	},
 	{
@@ -423,7 +429,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 107
+		"common": 108
 	},
 	{
 		"name": "shunlist",
