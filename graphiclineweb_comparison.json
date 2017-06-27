@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54268,
+		"ips": 54257,
 		"common": 2
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 127891,
+		"ips": 128658,
 		"common": 8
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41082,
+		"ips": 41073,
 		"common": 1
 	},
 	{
@@ -818,7 +818,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 14753,
+		"ips": 15776,
 		"common": 1
 	},
 	{
@@ -830,19 +830,19 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 989,
+		"ips": 991,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2112,
+		"ips": 2116,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1224,
+		"ips": 1228,
 		"common": 1
 	},
 	{
@@ -852,9 +852,15 @@
 		"common": 4
 	},
 	{
-		"name": "urandomusto_rdp",
+		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 200,
+		"ips": 225,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 169,
 		"common": 1
 	},
 	{
