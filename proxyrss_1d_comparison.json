@@ -26,19 +26,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31244,
-		"common": 80
+		"ips": 31252,
+		"common": 79
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 787,
-		"common": 52
+		"ips": 780,
+		"common": 51
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19192,
+		"ips": 19156,
 		"common": 28
 	},
 	{
@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40282,
+		"ips": 40277,
 		"common": 87
 	},
 	{
@@ -236,14 +236,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54300,
+		"ips": 54305,
 		"common": 1808
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40648,
-		"common": 80
+		"ips": 40656,
+		"common": 79
 	},
 	{
 		"name": "firehol_level3",
@@ -254,13 +254,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619662,
+		"ips": 9619659,
 		"common": 412
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41150,
+		"ips": 41155,
 		"common": 1813
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 33093,
+		"ips": 33077,
 		"common": 32
 	},
 	{
@@ -692,19 +692,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1990,
+		"ips": 2001,
 		"common": 4
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23175,
+		"ips": 23180,
 		"common": 80
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4239,
+		"ips": 4240,
 		"common": 11
 	},
 	{
@@ -753,25 +753,25 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 6
+		"common": 9
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 683,
-		"common": 53
+		"ips": 688,
+		"common": 55
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5406,
-		"common": 237
+		"ips": 5408,
+		"common": 238
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2548,
-		"common": 129
+		"ips": 2552,
+		"common": 130
 	},
 	{
 		"name": "stopforumspam",
@@ -814,6 +814,18 @@
 		"category": "abuse",
 		"ips": 157324,
 		"common": 1101
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 197,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 186,
+		"common": 1
 	},
 	{
 		"name": "xroxy",
