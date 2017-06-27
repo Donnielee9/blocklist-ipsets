@@ -50,26 +50,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 26551,
-		"common": 460
+		"ips": 26635,
+		"common": 459
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 862,
+		"ips": 863,
 		"common": 22
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3062,
+		"ips": 3081,
 		"common": 24
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17860,
-		"common": 438
+		"ips": 17877,
+		"common": 437
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -198,6 +198,18 @@
 		"common": 13
 	},
 	{
+		"name": "dataplane_sshclient",
+		"category": "attacks",
+		"ips": 14100,
+		"common": 1
+	},
+	{
+		"name": "dataplane_sshpwauth",
+		"category": "attacks",
+		"ips": 11870,
+		"common": 1
+	},
+	{
 		"name": "dm_tor",
 		"category": "anonymizers",
 		"ips": 6824,
@@ -302,8 +314,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 35811,
-		"common": 460
+		"ips": 35911,
+		"common": 459
 	},
 	{
 		"name": "firehol_level3",
@@ -338,7 +350,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2967,
+		"ips": 2995,
 		"common": 4
 	},
 	{
@@ -536,8 +548,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 26376,
-		"common": 314
+		"ips": 26787,
+		"common": 303
 	},
 	{
 		"name": "nullsecure",
