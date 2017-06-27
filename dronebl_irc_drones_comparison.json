@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40300,
+		"ips": 40304,
 		"common": 269
 	},
 	{
@@ -132,22 +132,28 @@
 		"common": 9
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 47,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1164,
+		"ips": 1151,
 		"common": 24
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 16133,
-		"common": 400
+		"common": 401
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5648,
-		"common": 209
+		"ips": 5647,
+		"common": 210
 	},
 	{
 		"name": "botvrij_dst",
@@ -284,14 +290,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 13859,
-		"common": 222
+		"ips": 13862,
+		"common": 224
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 11615,
-		"common": 192
+		"ips": 11620,
+		"common": 193
 	},
 	{
 		"name": "dm_tor",
@@ -434,8 +440,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40729,
-		"common": 1285
+		"ips": 40727,
+		"common": 1286
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -452,14 +458,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653502997,
+		"ips": 653502996,
 		"common": 36
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40059,
-		"common": 470
+		"ips": 40041,
+		"common": 467
 	},
 	{
 		"name": "firehol_level3",
@@ -470,8 +476,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619672,
-		"common": 993
+		"ips": 9619675,
+		"common": 994
 	},
 	{
 		"name": "firehol_proxies",
@@ -512,8 +518,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2465,
-		"common": 60
+		"ips": 2434,
+		"common": 57
 	},
 	{
 		"name": "haley_ssh",
@@ -824,8 +830,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32941,
-		"common": 666
+		"ips": 32911,
+		"common": 674
 	},
 	{
 		"name": "nullsecure",
@@ -854,7 +860,7 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2256,
+		"ips": 2286,
 		"common": 2
 	},
 	{
