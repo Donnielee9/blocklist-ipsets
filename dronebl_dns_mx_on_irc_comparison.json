@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40552,
+		"ips": 40557,
 		"common": 3
 	},
 	{
@@ -290,8 +290,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37376,
-		"common": 2
+		"ips": 37443,
+		"common": 3
 	},
 	{
 		"name": "firehol_level3",
@@ -302,7 +302,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619796,
+		"ips": 9619802,
 		"common": 39
 	},
 	{
@@ -874,6 +874,12 @@
 		"category": "reputation",
 		"ips": 30995,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 423,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

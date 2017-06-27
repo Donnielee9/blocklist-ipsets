@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 221,
+		"ips": 223,
 		"common": 11
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40552,
+		"ips": 40557,
 		"common": 47
 	},
 	{
@@ -332,8 +332,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37376,
-		"common": 322
+		"ips": 37443,
+		"common": 324
 	},
 	{
 		"name": "firehol_level3",
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619796,
+		"ips": 9619802,
 		"common": 267
 	},
 	{
@@ -684,22 +684,28 @@
 		"common": 356
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 225,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 131,
+		"ips": 122,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 197,
+		"ips": 198,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 279,
-		"common": 15
+		"ips": 423,
+		"common": 20
 	},
 	{
 		"name": "urandomusto_vnc",

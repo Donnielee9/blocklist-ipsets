@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40552,
+		"ips": 40557,
 		"common": 2
 	},
 	{
@@ -249,7 +249,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 265708,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "firehol_anonymous",
@@ -266,7 +266,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37376,
+		"ips": 37443,
 		"common": 32
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619796,
+		"ips": 9619802,
 		"common": 6
 	},
 	{
@@ -450,27 +450,15 @@
 		"common": 1
 	},
 	{
-		"name": "stopforumspam",
-		"category": "abuse",
-		"ips": 155707,
-		"common": 1
-	},
-	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 292725,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 538007,
-		"common": 2
-	},
-	{
-		"name": "stopforumspam_90d",
-		"category": "abuse",
-		"ips": 157324,
 		"common": 1
 	},
 	{
@@ -536,31 +524,37 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 204,
+		"ips": 201,
 		"common": 9
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 247,
+		"ips": 225,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 198,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 197,
+		"ips": 198,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 104,
+		"ips": 107,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 206,
+		"ips": 204,
 		"common": 5
 	},
 	{
