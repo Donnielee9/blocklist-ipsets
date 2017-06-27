@@ -842,8 +842,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2268,
-		"common": 171
+		"ips": 2256,
+		"common": 164
 	},
 	{
 		"name": "php_commenters",
@@ -1034,7 +1034,7 @@
 	{
 		"name": "stopforumspam",
 		"category": "abuse",
-		"ips": 155707,
+		"ips": 155356,
 		"common": 67
 	},
 	{
@@ -1148,8 +1148,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 225,
-		"common": 10
+		"ips": 183,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 174,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_malware",
@@ -1166,32 +1172,32 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 193,
+		"ips": 195,
 		"common": 19
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 109,
-		"common": 20
+		"ips": 111,
+		"common": 21
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 188,
-		"common": 10
+		"ips": 213,
+		"common": 15
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 445,
-		"common": 3
+		"ips": 441,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 193,
-		"common": 19
+		"ips": 187,
+		"common": 17
 	},
 	{
 		"name": "urandomusto_vnc",
