@@ -68,13 +68,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 28752,
+		"ips": 28892,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9213,
+		"ips": 9212,
 		"common": 1
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 561,
+		"ips": 560,
 		"common": 3
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37712,
+		"ips": 37887,
 		"common": 2
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619746,
+		"ips": 9619747,
 		"common": 110
 	},
 	{
@@ -498,9 +498,21 @@
 		"common": 7
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 265,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 445,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 73,
+		"ips": 74,
 		"common": 1
 	},
 	{
