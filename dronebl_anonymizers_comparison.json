@@ -62,7 +62,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 219,
+		"ips": 220,
 		"common": 19
 	},
 	{
@@ -146,49 +146,49 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31380,
-		"common": 1534
+		"ips": 31373,
+		"common": 1538
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9180,
+		"ips": 9176,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 782,
-		"common": 194
+		"ips": 780,
+		"common": 193
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 672,
+		"ips": 669,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 342,
+		"ips": 339,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3648,
-		"common": 49
+		"ips": 3642,
+		"common": 48
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19184,
-		"common": 1298
+		"ips": 19151,
+		"common": 1303
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 9994,
+		"ips": 10030,
 		"common": 32
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40279,
+		"ips": 40303,
 		"common": 295
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6849,
+		"ips": 6818,
 		"common": 165
 	},
 	{
@@ -716,19 +716,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40853,
-		"common": 6913
+		"ips": 40799,
+		"common": 6896
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 265669,
+		"ips": 265649,
 		"common": 22465
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54311,
+		"ips": 54300,
 		"common": 18300
 	},
 	{
@@ -740,8 +740,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40517,
-		"common": 1569
+		"ips": 40510,
+		"common": 1573
 	},
 	{
 		"name": "firehol_level3",
@@ -752,7 +752,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619669,
+		"ips": 9619693,
 		"common": 3175
 	},
 	{
@@ -1203,25 +1203,25 @@
 		"name": "php_dictionary",
 		"category": "spam",
 		"ips": 50,
-		"common": 22
+		"common": 17
 	},
 	{
 		"name": "php_dictionary_1d",
 		"category": "spam",
-		"ips": 97,
-		"common": 39
+		"ips": 50,
+		"common": 17
 	},
 	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1170,
-		"common": 483
+		"ips": 1147,
+		"common": 477
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
-		"ips": 345,
-		"common": 179
+		"ips": 306,
+		"common": 148
 	},
 	{
 		"name": "php_harvesters",
@@ -1251,25 +1251,25 @@
 		"name": "php_spammers",
 		"category": "spam",
 		"ips": 50,
-		"common": 17
+		"common": 16
 	},
 	{
 		"name": "php_spammers_1d",
 		"category": "spam",
-		"ips": 94,
-		"common": 31
+		"ips": 50,
+		"common": 16
 	},
 	{
 		"name": "php_spammers_30d",
 		"category": "spam",
-		"ips": 1260,
+		"ips": 1229,
 		"common": 406
 	},
 	{
 		"name": "php_spammers_7d",
 		"category": "spam",
-		"ips": 355,
-		"common": 159
+		"ips": 316,
+		"common": 135
 	},
 	{
 		"name": "proxylists",
@@ -1467,7 +1467,7 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 69
+		"common": 61
 	},
 	{
 		"name": "socks_proxy_1d",
@@ -1478,13 +1478,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23183,
+		"ips": 23181,
 		"common": 11518
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4245,
+		"ips": 4246,
 		"common": 3198
 	},
 	{
@@ -1557,7 +1557,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 50
+		"common": 47
 	},
 	{
 		"name": "sslproxies_1d",
@@ -1568,14 +1568,14 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5407,
+		"ips": 5408,
 		"common": 1394
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2553,
-		"common": 1073
+		"ips": 2551,
+		"common": 1072
 	},
 	{
 		"name": "stopforumspam",
