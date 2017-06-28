@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40407,
+		"ips": 40424,
 		"common": 5
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54254,
+		"ips": 54328,
 		"common": 6
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619807,
+		"ips": 9619820,
 		"common": 27
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 33101,
+		"ips": 33094,
 		"common": 8
 	},
 	{
@@ -476,7 +476,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5036,
+		"ips": 5035,
 		"common": 1
 	},
 	{
@@ -495,6 +495,12 @@
 		"name": "sblam",
 		"category": "abuse",
 		"ips": 14396,
+		"common": 1
+	},
+	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
 		"common": 1
 	},
 	{
