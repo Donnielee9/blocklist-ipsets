@@ -44,7 +44,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 266,
+		"ips": 275,
 		"common": 3
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 39642,
+		"ips": 39631,
 		"common": 12
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16100,
+		"ips": 16105,
 		"common": 6
 	},
 	{
@@ -200,61 +200,61 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2456,
-		"common": 3
+		"ips": 2443,
+		"common": 4
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 30597,
+		"ips": 30551,
 		"common": 20
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 119492,
+		"ips": 119478,
 		"common": 50
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 70891,
+		"ips": 70924,
 		"common": 41
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 24175,
+		"ips": 24173,
 		"common": 8
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 6812,
+		"ips": 6816,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 34221,
+		"ips": 34165,
 		"common": 22
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 155484,
+		"ips": 155466,
 		"common": 58
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 88421,
+		"ips": 88479,
 		"common": 47
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 357146,
+		"ips": 357170,
 		"common": 17
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
-		"ips": 2864,
+		"ips": 2863,
 		"common": 2
 	},
 	{
@@ -428,19 +428,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36892,
+		"ips": 36834,
 		"common": 21
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 265429,
+		"ips": 265407,
 		"common": 66
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54430,
+		"ips": 54433,
 		"common": 2
 	},
 	{
@@ -452,8 +452,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41593,
-		"common": 580
+		"ips": 40550,
+		"common": 514
 	},
 	{
 		"name": "firehol_level3",
@@ -464,13 +464,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619038,
+		"ips": 9619032,
 		"common": 73
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41310,
+		"ips": 41313,
 		"common": 2
 	},
 	{
@@ -506,8 +506,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2862,
-		"common": 215
+		"ips": 1370,
+		"common": 115
 	},
 	{
 		"name": "haley_ssh",
@@ -812,13 +812,13 @@
 	{
 		"name": "ri_connect_proxies_30d",
 		"category": "anonymizers",
-		"ips": 3020,
+		"ips": 3013,
 		"common": 1
 	},
 	{
 		"name": "ri_connect_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1083,
+		"ips": 1133,
 		"common": 1
 	},
 	{
@@ -998,50 +998,44 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 225,
-		"common": 17
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 242,
-		"common": 1
+		"ips": 230,
+		"common": 26
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 132,
+		"ips": 134,
 		"common": 38
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 192,
-		"common": 18
+		"ips": 197,
+		"common": 17
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 137,
-		"common": 31
+		"ips": 138,
+		"common": 32
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 435,
+		"ips": 429,
 		"common": 15
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 444,
-		"common": 114
+		"ips": 443,
+		"common": 109
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
 		"ips": 186,
-		"common": 52
+		"common": 54
 	},
 	{
 		"name": "urandomusto_vnc",
