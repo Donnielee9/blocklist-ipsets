@@ -78,21 +78,27 @@
 		"common": 1
 	},
 	{
-		"name": "blocklist_de_apache",
+		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 8980,
-		"common": 3
+		"ips": 33449,
+		"common": 12675
 	},
 	{
-		"name": "blocklist_de_bruteforce",
+		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 470,
-		"common": 3
+		"ips": 367,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3527,
+		"ips": 3542,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 18823,
 		"common": 1
 	},
 	{
@@ -104,8 +110,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 39664,
-		"common": 638
+		"ips": 39716,
+		"common": 640
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -242,14 +248,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 14005,
-		"common": 3987
+		"ips": 14223,
+		"common": 4149
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 11819,
-		"common": 3584
+		"ips": 12038,
+		"common": 3740
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -416,8 +422,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 18230,
-		"common": 57
+		"ips": 42826,
+		"common": 12675
 	},
 	{
 		"name": "firehol_level3",
@@ -428,8 +434,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619048,
-		"common": 1196
+		"ips": 9619079,
+		"common": 1198
 	},
 	{
 		"name": "firehol_proxies",
@@ -680,8 +686,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39107,
-		"common": 119
+		"ips": 38966,
+		"common": 131
 	},
 	{
 		"name": "nt_ssh_7d",
