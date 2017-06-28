@@ -50,13 +50,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32446,
+		"ips": 32492,
 		"common": 100
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9104,
+		"ips": 9102,
 		"common": 2
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40655,
+		"ips": 40608,
 		"common": 22
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 356145,
+		"ips": 356167,
 		"common": 93
 	},
 	{
@@ -320,13 +320,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653503013,
+		"ips": 653503012,
 		"common": 8
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41333,
+		"ips": 41379,
 		"common": 102
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619986,
+		"ips": 9619942,
 		"common": 134
 	},
 	{
@@ -513,6 +513,12 @@
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
+		"common": 1
+	},
+	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 3520,
 		"common": 1
 	},
 	{
@@ -756,15 +762,9 @@
 		"common": 32
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 1
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2021,
+		"ips": 2022,
 		"common": 21
 	},
 	{
@@ -872,7 +872,7 @@
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
-		"ips": 22170,
+		"ips": 21048,
 		"common": 143
 	},
 	{

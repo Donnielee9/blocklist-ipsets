@@ -50,19 +50,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32446,
+		"ips": 32492,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 356,
+		"ips": 358,
 		"common": 4
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40655,
+		"ips": 40608,
 		"common": 1
 	},
 	{
@@ -188,13 +188,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653503013,
+		"ips": 653503012,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41333,
+		"ips": 41379,
 		"common": 11
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619986,
+		"ips": 9619942,
 		"common": 1
 	},
 	{
@@ -280,6 +280,12 @@
 		"category": "reputation",
 		"ips": 29439,
 		"common": 6
+	},
+	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 3520,
+		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
