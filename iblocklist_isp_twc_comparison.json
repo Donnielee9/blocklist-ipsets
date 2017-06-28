@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40368,
+		"ips": 40366,
 		"common": 62
 	},
 	{
@@ -176,19 +176,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1118,
+		"ips": 1076,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16147,
+		"ips": 16111,
 		"common": 7
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5561,
+		"ips": 5508,
 		"common": 1
 	},
 	{
@@ -326,8 +326,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 355700,
-		"common": 798
+		"ips": 355724,
+		"common": 799
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37951,
+		"ips": 37948,
 		"common": 50
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54371,
+		"ips": 54373,
 		"common": 151
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41065,
+		"ips": 41068,
 		"common": 42
 	},
 	{
@@ -536,13 +536,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619763,
+		"ips": 9619725,
 		"common": 200
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41272,
+		"ips": 41274,
 		"common": 125
 	},
 	{
@@ -1038,9 +1038,15 @@
 		"common": 42
 	},
 	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 284,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 445,
+		"ips": 439,
 		"common": 2
 	},
 	{
