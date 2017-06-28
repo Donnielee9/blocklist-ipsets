@@ -380,26 +380,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 52,
+		"ips": 59,
 		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1118,
-		"common": 67
+		"ips": 1104,
+		"common": 65
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16156,
+		"ips": 16146,
 		"common": 810
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5587,
-		"common": 266
+		"ips": 5569,
+		"common": 264
 	},
 	{
 		"name": "botvrij_dst",
@@ -458,49 +458,49 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2432,
-		"common": 165
+		"ips": 2427,
+		"common": 159
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 32465,
-		"common": 2020
+		"ips": 32514,
+		"common": 2026
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 119427,
-		"common": 5422
+		"ips": 119422,
+		"common": 5423
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 70347,
+		"ips": 70340,
 		"common": 3222
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
 		"ips": 450,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1099,
+		"ips": 1101,
 		"common": 29
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 24155,
+		"ips": 24151,
 		"common": 528
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 6852,
+		"ips": 6851,
 		"common": 163
 	},
 	{
@@ -513,25 +513,25 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 152
+		"common": 147
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 36457,
-		"common": 2688
+		"ips": 36519,
+		"common": 2700
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 155565,
-		"common": 8604
+		"ips": 155562,
+		"common": 8601
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 87580,
-		"common": 5469
+		"ips": 87578,
+		"common": 5471
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -914,14 +914,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38591,
-		"common": 2776
+		"ips": 38647,
+		"common": 2787
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 265198,
-		"common": 13705
+		"ips": 265196,
+		"common": 13702
 	},
 	{
 		"name": "firehol_anonymous",
@@ -938,8 +938,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40496,
-		"common": 4102
+		"ips": 40500,
+		"common": 4105
 	},
 	{
 		"name": "firehol_level3",
@@ -950,7 +950,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619814,
+		"ips": 9619804,
 		"common": 163141
 	},
 	{
@@ -998,8 +998,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2884,
-		"common": 232
+		"ips": 2891,
+		"common": 235
 	},
 	{
 		"name": "haley_ssh",
@@ -1970,14 +1970,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 176,
-		"common": 12
+		"ips": 164,
+		"common": 13
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 195,
-		"common": 8
+		"ips": 219,
+		"common": 24
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 191,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -1988,14 +1994,14 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 204,
-		"common": 17
+		"ips": 199,
+		"common": 14
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 123,
-		"common": 19
+		"ips": 127,
+		"common": 20
 	},
 	{
 		"name": "urandomusto_spam",
@@ -2006,26 +2012,26 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 242,
-		"common": 8
+		"ips": 182,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 419,
-		"common": 14
+		"ips": 434,
+		"common": 15
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
 		"ips": 184,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 71,
-		"common": 17
+		"ips": 70,
+		"common": 16
 	},
 	{
 		"name": "urlvir",
