@@ -1,5 +1,11 @@
 [
 	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 32352,
+		"common": 1
+	},
+	{
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268568,
@@ -15,7 +21,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 30542,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -44,7 +50,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 355471,
+		"ips": 355516,
 		"common": 2
 	},
 	{
@@ -80,8 +86,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653503024,
-		"common": 358
+		"ips": 653503025,
+		"common": 359
 	},
 	{
 		"name": "firehol_level3",
@@ -92,7 +98,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619788,
+		"ips": 9619789,
 		"common": 1
 	},
 	{
@@ -105,7 +111,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739115,
-		"common": 70
+		"common": 71
 	},
 	{
 		"name": "gofferje_sip",
@@ -117,43 +123,55 @@
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 15127,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26162,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "hphosts_exp",
 		"category": "malware",
 		"ips": 317,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 28165,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "hphosts_grm",
 		"category": "spam",
 		"ips": 336,
+		"common": 2
+	},
+	{
+		"name": "hphosts_hfs",
+		"category": "abuse",
+		"ips": 262,
+		"common": 1
+	},
+	{
+		"name": "hphosts_mmt",
+		"category": "reputation",
+		"ips": 1127,
 		"common": 1
 	},
 	{
 		"name": "hphosts_pha",
 		"category": "reputation",
 		"ips": 1630,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 28708,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "iblocklist_ads",
@@ -231,13 +249,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 41
+		"common": 42
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5034,
-		"common": 263
+		"common": 264
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -260,8 +278,8 @@
 	{
 		"name": "ransomware_torrentlocker_c2",
 		"category": "malware",
-		"ips": 16,
-		"common": 16
+		"ips": 17,
+		"common": 17
 	},
 	{
 		"name": "snort_ipfilter",
