@@ -72,27 +72,21 @@
 		"common": 1
 	},
 	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 66,
-		"common": 1
-	},
-	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1122,
-		"common": 20
+		"ips": 1119,
+		"common": 19
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16151,
+		"ips": 16155,
 		"common": 232
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5602,
+		"ips": 5599,
 		"common": 149
 	},
 	{
@@ -260,7 +254,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38876,
+		"ips": 38879,
 		"common": 513
 	},
 	{
@@ -284,7 +278,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40333,
+		"ips": 40336,
 		"common": 83
 	},
 	{
@@ -296,7 +290,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619801,
+		"ips": 9619806,
 		"common": 240
 	},
 	{
@@ -308,7 +302,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 30763,
+		"ips": 30765,
 		"common": 2
 	},
 	{
@@ -792,6 +786,12 @@
 		"common": 3
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 195,
+		"common": 1
+	},
+	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 28303,
@@ -800,14 +800,14 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 60,
-		"common": 5
+		"ips": 59,
+		"common": 8
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 131,
-		"common": 14
+		"ips": 127,
+		"common": 13
 	},
 	{
 		"name": "xroxy_30d",
@@ -818,7 +818,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 240,
+		"ips": 241,
 		"common": 25
 	}
 ]

@@ -242,26 +242,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 66,
-		"common": 8
+		"ips": 61,
+		"common": 7
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1122,
-		"common": 172
+		"ips": 1119,
+		"common": 165
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16151,
-		"common": 2400
+		"ips": 16155,
+		"common": 2401
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5602,
-		"common": 1313
+		"ips": 5599,
+		"common": 1312
 	},
 	{
 		"name": "bruteforceblocker",
@@ -716,7 +716,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38876,
+		"ips": 38879,
 		"common": 6632
 	},
 	{
@@ -740,8 +740,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40333,
-		"common": 1580
+		"ips": 40336,
+		"common": 1581
 	},
 	{
 		"name": "firehol_level3",
@@ -752,7 +752,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619801,
+		"ips": 9619806,
 		"common": 3183
 	},
 	{
@@ -764,7 +764,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 30763,
+		"ips": 30765,
 		"common": 189
 	},
 	{
@@ -800,13 +800,13 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2897,
-		"common": 35
+		"ips": 2896,
+		"common": 36
 	},
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 20393,
+		"ips": 20395,
 		"common": 169
 	},
 	{
@@ -1376,7 +1376,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5040,
+		"ips": 5044,
 		"common": 4
 	},
 	{
@@ -1388,7 +1388,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 154,
+		"ips": 156,
 		"common": 1
 	},
 	{
@@ -1682,19 +1682,31 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 177,
+		"ips": 176,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 195,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 184,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 121,
+		"ips": 123,
 		"common": 1
 	},
 	{
-		"name": "urandomusto_ssh",
+		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 261,
+		"ips": 419,
 		"common": 1
 	},
 	{
@@ -1712,14 +1724,14 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 60,
-		"common": 48
+		"ips": 59,
+		"common": 47
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 131,
-		"common": 91
+		"ips": 127,
+		"common": 86
 	},
 	{
 		"name": "xroxy_30d",
@@ -1730,7 +1742,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 240,
+		"ips": 241,
 		"common": 141
 	}
 ]
