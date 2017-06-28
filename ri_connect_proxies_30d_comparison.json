@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40055,
+		"ips": 40053,
 		"common": 48
 	},
 	{
@@ -80,25 +80,31 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6827,
+		"ips": 6849,
+		"common": 2
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 39,
 		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1086,
-		"common": 28
+		"ips": 1077,
+		"common": 30
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16082,
+		"ips": 16076,
 		"common": 464
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5475,
+		"ips": 5463,
 		"common": 203
 	},
 	{
@@ -212,14 +218,14 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6824,
+		"ips": 6846,
 		"common": 2
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 358366,
-		"common": 1643
+		"ips": 358520,
+		"common": 1657
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -278,8 +284,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36573,
-		"common": 842
+		"ips": 36570,
+		"common": 843
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -290,7 +296,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54486,
+		"ips": 54459,
 		"common": 3010
 	},
 	{
@@ -308,7 +314,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619384,
+		"ips": 9619374,
 		"common": 482
 	},
 	{
@@ -860,14 +866,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 262,
-		"common": 4
+		"ips": 189,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 219,
-		"common": 1
+		"ips": 285,
+		"common": 2
 	},
 	{
 		"name": "voipbl",
@@ -878,19 +884,19 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 53,
-		"common": 8
+		"ips": 57,
+		"common": 10
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 137,
-		"common": 25
+		"ips": 135,
+		"common": 26
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 327,
+		"ips": 326,
 		"common": 58
 	},
 	{

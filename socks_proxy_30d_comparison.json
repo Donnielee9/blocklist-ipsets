@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40055,
+		"ips": 40053,
 		"common": 47
 	},
 	{
@@ -122,26 +122,32 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6827,
+		"ips": 6849,
 		"common": 3
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 39,
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1086,
-		"common": 47
+		"ips": 1077,
+		"common": 48
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16082,
+		"ips": 16076,
 		"common": 966
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5475,
-		"common": 392
+		"ips": 5463,
+		"common": 391
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -248,7 +254,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6824,
+		"ips": 6846,
 		"common": 3
 	},
 	{
@@ -260,8 +266,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 358366,
-		"common": 12419
+		"ips": 358520,
+		"common": 12426
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -344,7 +350,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36573,
+		"ips": 36570,
 		"common": 1872
 	},
 	{
@@ -356,7 +362,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54486,
+		"ips": 54459,
 		"common": 22977
 	},
 	{
@@ -368,7 +374,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 17634,
+		"ips": 17614,
 		"common": 1
 	},
 	{
@@ -380,7 +386,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619384,
+		"ips": 9619374,
 		"common": 989
 	},
 	{
@@ -410,7 +416,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2010,
+		"ips": 1990,
 		"common": 1
 	},
 	{
@@ -1106,37 +1112,37 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 262,
-		"common": 4
+		"ips": 189,
+		"common": 5
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 219,
-		"common": 28
+		"ips": 285,
+		"common": 27
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 444,
+		"ips": 430,
 		"common": 1
 	},
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 53,
+		"ips": 57,
 		"common": 11
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 137,
+		"ips": 135,
 		"common": 18
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 327,
+		"ips": 326,
 		"common": 46
 	},
 	{
