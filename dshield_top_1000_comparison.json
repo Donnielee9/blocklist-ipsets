@@ -80,44 +80,44 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34212,
-		"common": 22
+		"ips": 34249,
+		"common": 23
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8970,
+		"ips": 8973,
 		"common": 5
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3478,
+		"ips": 3444,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18717,
+		"ips": 18668,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 171,
+		"ips": 169,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13661,
-		"common": 13
+		"ips": 13758,
+		"common": 14
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 130,
-		"common": 2
+		"ips": 132,
+		"common": 3
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -236,13 +236,13 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 366,
+		"ips": 367,
 		"common": 3
 	},
 	{
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
-		"ips": 119,
+		"ips": 120,
 		"common": 5
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 529,
+		"ips": 527,
 		"common": 8
 	},
 	{
@@ -362,13 +362,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43074,
-		"common": 31
+		"ips": 43114,
+		"common": 32
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 125747,
+		"ips": 127305,
 		"common": 865
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2063,
+		"ips": 2066,
 		"common": 11
 	},
 	{
@@ -568,6 +568,12 @@
 		"category": "spam",
 		"ips": 1206694,
 		"common": 2
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 33250,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
