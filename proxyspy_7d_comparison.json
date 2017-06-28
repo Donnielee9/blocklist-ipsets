@@ -87,25 +87,25 @@
 		"name": "botscout",
 		"category": "abuse",
 		"ips": 64,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1112,
-		"common": 20
+		"ips": 1114,
+		"common": 22
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16113,
+		"ips": 16108,
 		"common": 450
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5506,
-		"common": 134
+		"ips": 5519,
+		"common": 136
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -188,7 +188,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 356056,
+		"ips": 356083,
 		"common": 1213
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37525,
+		"ips": 37523,
 		"common": 716
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41221,
+		"ips": 41213,
 		"common": 75
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619920,
+		"ips": 9619915,
 		"common": 483
 	},
 	{
@@ -792,9 +792,15 @@
 		"common": 1567
 	},
 	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 311,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 439,
+		"ips": 444,
 		"common": 1
 	},
 	{
