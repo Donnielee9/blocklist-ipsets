@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40282,
+		"ips": 40322,
 		"common": 593
 	},
 	{
@@ -182,32 +182,32 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6849,
+		"ips": 6839,
 		"common": 431
 	},
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 24,
-		"common": 14
+		"ips": 64,
+		"common": 40
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1046,
-		"common": 498
+		"ips": 1059,
+		"common": 507
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16087,
+		"ips": 16093,
 		"common": 3557
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5449,
-		"common": 1732
+		"ips": 5463,
+		"common": 1734
 	},
 	{
 		"name": "bruteforceblocker",
@@ -338,8 +338,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6848,
-		"common": 432
+		"ips": 6836,
+		"common": 431
 	},
 	{
 		"name": "dragon_http",
@@ -350,8 +350,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 360341,
-		"common": 1883
+		"ips": 360462,
+		"common": 1887
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -446,8 +446,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36767,
-		"common": 4294
+		"ips": 36822,
+		"common": 4297
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54513,
+		"ips": 54441,
 		"common": 2180
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44060,
+		"ips": 44061,
 		"common": 523
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619667,
+		"ips": 9619711,
 		"common": 3791
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 30883,
+		"ips": 30879,
 		"common": 200
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1943,
+		"ips": 1940,
 		"common": 35
 	},
 	{
@@ -752,8 +752,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 24866,
-		"common": 68
+		"ips": 25514,
+		"common": 74
 	},
 	{
 		"name": "nullsecure",
@@ -1166,8 +1166,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 6006,
-		"common": 1721
+		"ips": 6112,
+		"common": 1739
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1256,20 +1256,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 165,
+		"ips": 162,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 273,
-		"common": 24
+		"ips": 210,
+		"common": 37
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 284,
-		"common": 2
+		"ips": 295,
+		"common": 7
 	},
 	{
 		"name": "urandomusto_malware",
@@ -1280,14 +1280,8 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 202,
+		"ips": 210,
 		"common": 2
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 320,
-		"common": 3
 	},
 	{
 		"name": "voipbl",

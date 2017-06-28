@@ -56,31 +56,37 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40282,
+		"ips": 40322,
 		"common": 36
 	},
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6849,
+		"ips": 6839,
 		"common": 1
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 64,
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1046,
+		"ips": 1059,
 		"common": 32
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16087,
+		"ips": 16093,
 		"common": 179
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5449,
+		"ips": 5463,
 		"common": 135
 	},
 	{
@@ -176,14 +182,14 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6848,
+		"ips": 6836,
 		"common": 1
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 360341,
-		"common": 439
+		"ips": 360462,
+		"common": 444
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -242,8 +248,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36767,
-		"common": 311
+		"ips": 36822,
+		"common": 312
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -254,13 +260,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54513,
+		"ips": 54441,
 		"common": 707
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44060,
+		"ips": 44061,
 		"common": 63
 	},
 	{
@@ -272,7 +278,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619667,
+		"ips": 9619711,
 		"common": 184
 	},
 	{
@@ -356,8 +362,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 24866,
-		"common": 10
+		"ips": 25514,
+		"common": 11
 	},
 	{
 		"name": "php_commenters",
@@ -668,8 +674,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 6006,
-		"common": 142
+		"ips": 6112,
+		"common": 145
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -704,14 +710,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 273,
+		"ips": 210,
 		"common": 4
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 284,
-		"common": 2
+		"ips": 295,
+		"common": 1
 	},
 	{
 		"name": "xroxy",
