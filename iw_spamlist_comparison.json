@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40282,
+		"ips": 40241,
 		"common": 30
 	},
 	{
@@ -74,19 +74,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1066,
+		"ips": 1053,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16109,
+		"ips": 16091,
 		"common": 2
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5460,
+		"ips": 5447,
 		"common": 2
 	},
 	{
@@ -146,13 +146,13 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6836,
+		"ips": 6823,
 		"common": 2
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 361442,
+		"ips": 361609,
 		"common": 9
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 128449,
+		"ips": 128448,
 		"common": 3
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36623,
+		"ips": 36675,
 		"common": 4
 	},
 	{
@@ -212,13 +212,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54441,
+		"ips": 54493,
 		"common": 6
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43977,
+		"ips": 43964,
 		"common": 8
 	},
 	{
@@ -230,13 +230,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619691,
+		"ips": 9619634,
 		"common": 33
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41356,
+		"ips": 41354,
 		"common": 5
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1939,
+		"ips": 1922,
 		"common": 1
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 27619,
+		"ips": 28294,
 		"common": 18
 	},
 	{
@@ -566,7 +566,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23167,
+		"ips": 23165,
 		"common": 1
 	},
 	{
@@ -626,7 +626,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 6112,
+		"ips": 6211,
 		"common": 2
 	},
 	{
@@ -693,6 +693,12 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 30995,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 297,
 		"common": 1
 	}
 ]
