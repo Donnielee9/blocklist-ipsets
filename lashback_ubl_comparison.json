@@ -26,8 +26,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 280,
-		"common": 85
+		"ips": 315,
+		"common": 91
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -212,19 +212,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1089,
+		"ips": 1111,
 		"common": 35
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16105,
+		"ips": 16107,
 		"common": 523
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5493,
+		"ips": 5498,
 		"common": 212
 	},
 	{
@@ -392,14 +392,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 13932,
-		"common": 258
+		"ips": 14005,
+		"common": 274
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 11755,
-		"common": 236
+		"ips": 11819,
+		"common": 251
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -428,8 +428,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 357568,
-		"common": 5000
+		"ips": 357569,
+		"common": 5001
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -650,7 +650,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36854,
+		"ips": 36860,
 		"common": 1120
 	},
 	{
@@ -668,14 +668,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653503034,
-		"common": 312
+		"ips": 653503037,
+		"common": 313
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40983,
-		"common": 3313
+		"ips": 41498,
+		"common": 3393
 	},
 	{
 		"name": "firehol_level3",
@@ -686,7 +686,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619107,
+		"ips": 9619106,
 		"common": 7040
 	},
 	{
@@ -698,8 +698,8 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 30822,
-		"common": 673
+		"ips": 30821,
+		"common": 674
 	},
 	{
 		"name": "firehol_webserver",
@@ -734,8 +734,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1358,
-		"common": 72
+		"ips": 2086,
+		"common": 201
 	},
 	{
 		"name": "haley_ssh",
@@ -1082,8 +1082,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39209,
-		"common": 13174
+		"ips": 39211,
+		"common": 13168
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1328,14 +1328,20 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5034,
-		"common": 36
+		"ips": 5033,
+		"common": 37
 	},
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 157,
-		"common": 2
+		"ips": 156,
+		"common": 3
+	},
+	{
+		"name": "ransomware_rw",
+		"category": "malware",
+		"ips": 362,
+		"common": 1
 	},
 	{
 		"name": "ri_connect_proxies",
@@ -1632,21 +1638,27 @@
 		"common": 3
 	},
 	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 207,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 138,
+		"ips": 140,
 		"common": 6
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 429,
-		"common": 2
+		"ips": 430,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 443,
+		"ips": 444,
 		"common": 1
 	},
 	{
