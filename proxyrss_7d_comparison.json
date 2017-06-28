@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40143,
+		"ips": 40130,
 		"common": 128
 	},
 	{
@@ -110,25 +110,31 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6826,
+		"ips": 6816,
 		"common": 3
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 40,
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1064,
-		"common": 29
+		"ips": 1078,
+		"common": 30
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16091,
-		"common": 458
+		"ips": 16096,
+		"common": 457
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5444,
+		"ips": 5431,
 		"common": 166
 	},
 	{
@@ -206,14 +212,14 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6823,
+		"ips": 6813,
 		"common": 3
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 362661,
-		"common": 1861
+		"ips": 362874,
+		"common": 1868
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -290,7 +296,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36533,
+		"ips": 36534,
 		"common": 829
 	},
 	{
@@ -302,13 +308,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54450,
+		"ips": 54443,
 		"common": 2896
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44051,
+		"ips": 44046,
 		"common": 69
 	},
 	{
@@ -320,8 +326,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619541,
-		"common": 502
+		"ips": 9619548,
+		"common": 501
 	},
 	{
 		"name": "firehol_proxies",
@@ -512,8 +518,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30507,
-		"common": 47
+		"ips": 28624,
+		"common": 43
 	},
 	{
 		"name": "nullsecure",
@@ -902,8 +908,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 206,
-		"common": 7
+		"ips": 247,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 303,
+		"common": 1
 	},
 	{
 		"name": "xroxy",
