@@ -38,8 +38,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32619,
-		"common": 98
+		"ips": 32645,
+		"common": 95
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -50,19 +50,19 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3555,
+		"ips": 3544,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19173,
+		"ips": 19140,
 		"common": 27
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 39701,
+		"ips": 39699,
 		"common": 117
 	},
 	{
@@ -98,20 +98,20 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1115,
+		"ips": 1104,
 		"common": 28
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16115,
-		"common": 567
+		"ips": 16112,
+		"common": 566
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
 		"ips": 5519,
-		"common": 174
+		"common": 173
 	},
 	{
 		"name": "ciarmy",
@@ -198,9 +198,15 @@
 		"common": 4
 	},
 	{
+		"name": "dm_tor",
+		"category": "anonymizers",
+		"ips": 6812,
+		"common": 1
+	},
+	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 356438,
+		"ips": 356487,
 		"common": 2494
 	},
 	{
@@ -290,7 +296,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37314,
+		"ips": 37323,
 		"common": 977
 	},
 	{
@@ -302,7 +308,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54339,
+		"ips": 54392,
 		"common": 6698
 	},
 	{
@@ -314,8 +320,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41510,
-		"common": 98
+		"ips": 41549,
+		"common": 95
 	},
 	{
 		"name": "firehol_level3",
@@ -326,8 +332,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619107,
-		"common": 614
+		"ips": 9619102,
+		"common": 613
 	},
 	{
 		"name": "firehol_proxies",
@@ -536,8 +542,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39703,
-		"common": 15
+		"ips": 39718,
+		"common": 17
 	},
 	{
 		"name": "nullsecure",
@@ -922,18 +928,6 @@
 		"category": "reputation",
 		"ips": 30995,
 		"common": 4
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 311,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_telnet",
-		"category": "attacks",
-		"ips": 444,
-		"common": 1
 	},
 	{
 		"name": "voipbl",
