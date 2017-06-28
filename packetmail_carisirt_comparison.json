@@ -170,7 +170,7 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 323,
+		"ips": 324,
 		"common": 3
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 362,
+		"ips": 363,
 		"common": 2
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36400,
+		"ips": 36395,
 		"common": 2
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44132,
+		"ips": 44128,
 		"common": 15
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619740,
+		"ips": 9619747,
 		"common": 11
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1914,
+		"ips": 1901,
 		"common": 4
 	},
 	{
@@ -596,13 +596,25 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 141,
+		"ips": 142,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
 		"ips": 212,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 443,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 395,
 		"common": 1
 	},
 	{
