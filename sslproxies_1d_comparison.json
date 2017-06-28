@@ -38,8 +38,8 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 618,
-		"common": 52
+		"ips": 613,
+		"common": 51
 	},
 	{
 		"name": "blocklist_de_mail",
@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 132,
+		"ips": 130,
 		"common": 1
 	},
 	{
@@ -62,25 +62,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 36,
-		"common": 2
+		"ips": 48,
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1101,
-		"common": 28
+		"ips": 1093,
+		"common": 29
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16076,
+		"ips": 16087,
 		"common": 178
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5489,
+		"ips": 5503,
 		"common": 132
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36513,
+		"ips": 36515,
 		"common": 305
 	},
 	{
@@ -218,13 +218,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54516,
+		"ips": 54462,
 		"common": 692
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42733,
+		"ips": 42736,
 		"common": 70
 	},
 	{
@@ -236,13 +236,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619215,
+		"ips": 9619226,
 		"common": 181
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41376,
+		"ips": 41377,
 		"common": 692
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31350,
+		"ips": 32032,
 		"common": 14
 	},
 	{
@@ -554,19 +554,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2070,
+		"ips": 2074,
 		"common": 16
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23217,
+		"ips": 23218,
 		"common": 85
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4180,
+		"ips": 4184,
 		"common": 19
 	},
 	{
@@ -668,8 +668,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 184,
+		"ips": 237,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 167,
+		"common": 1
 	},
 	{
 		"name": "xroxy",
