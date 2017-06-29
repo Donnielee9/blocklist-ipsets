@@ -398,7 +398,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 366698,
+		"ips": 366717,
 		"common": 11
 	},
 	{
@@ -506,7 +506,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54674,
+		"ips": 54673,
 		"common": 15
 	},
 	{
@@ -536,7 +536,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41549,
+		"ips": 41548,
 		"common": 12
 	},
 	{
@@ -950,19 +950,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2223,
+		"ips": 2219,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23246,
+		"ips": 23245,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4066,
+		"ips": 4065,
 		"common": 2
 	},
 	{
@@ -1118,20 +1118,32 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 147,
-		"common": 22
+		"ips": 155,
+		"common": 21
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 301,
+		"common": 12
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 284,
+		"common": 8
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 146,
+		"ips": 147,
 		"common": 9
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 211,
-		"common": 14
+		"ips": 210,
+		"common": 13
 	},
 	{
 		"name": "urandomusto_smb",
@@ -1142,32 +1154,32 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 167,
-		"common": 2
+		"ips": 338,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 443,
-		"common": 2
+		"ips": 441,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 174,
-		"common": 23
+		"ips": 180,
+		"common": 22
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 66,
+		"ips": 67,
 		"common": 9
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
-		"ips": 28321,
-		"common": 60
+		"ips": 28383,
+		"common": 64
 	},
 	{
 		"name": "vxvault",
