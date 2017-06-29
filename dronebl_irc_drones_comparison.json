@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 46870,
+		"ips": 46881,
 		"common": 265
 	},
 	{
@@ -122,26 +122,32 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6824,
+		"ips": 6825,
 		"common": 10
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 62,
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1034,
-		"common": 17
+		"ips": 1052,
+		"common": 18
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16074,
-		"common": 411
+		"ips": 16080,
+		"common": 412
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5294,
-		"common": 177
+		"ips": 5305,
+		"common": 178
 	},
 	{
 		"name": "botvrij_dst",
@@ -278,13 +284,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 16336,
-		"common": 648
+		"ips": 16361,
+		"common": 649
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 14112,
+		"ips": 14131,
 		"common": 610
 	},
 	{
@@ -308,8 +314,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 369299,
-		"common": 6437
+		"ips": 369334,
+		"common": 6438
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -428,8 +434,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40033,
-		"common": 1308
+		"ips": 40040,
+		"common": 1309
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -440,7 +446,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54681,
+		"ips": 54631,
 		"common": 4165
 	},
 	{
@@ -452,7 +458,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43331,
+		"ips": 43320,
 		"common": 827
 	},
 	{
@@ -464,8 +470,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9626124,
-		"common": 1004
+		"ips": 9626121,
+		"common": 1005
 	},
 	{
 		"name": "firehol_proxies",
@@ -506,7 +512,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1804,
+		"ips": 1794,
 		"common": 2
 	},
 	{
@@ -818,8 +824,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30542,
-		"common": 646
+		"ips": 30634,
+		"common": 655
 	},
 	{
 		"name": "nt_ssh_7d",
