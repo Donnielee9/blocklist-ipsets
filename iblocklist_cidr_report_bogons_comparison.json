@@ -159,7 +159,7 @@
 		"name": "cidr_report_bogons",
 		"category": "unrouteable",
 		"ips": 601454536,
-		"common": 601449160
+		"common": 601454536
 	},
 	{
 		"name": "cleanmx_phishing",
@@ -348,6 +348,18 @@
 		"common": 3
 	},
 	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 24542729,
+		"common": 256
+	},
+	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 24536576,
+		"common": 256
+	},
+	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 36196,
@@ -363,7 +375,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 653522007,
-		"common": 600678473
+		"common": 600669513
 	},
 	{
 		"name": "firehol_level2",
@@ -380,8 +392,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619948,
-		"common": 625904
+		"ips": 9619945,
+		"common": 626160
 	},
 	{
 		"name": "firehol_webclient",
@@ -399,7 +411,7 @@
 		"name": "fullbogons",
 		"category": "unrouteable",
 		"ips": 628213832,
-		"common": 600678472
+		"common": 600669256
 	},
 	{
 		"name": "gofferje_sip",
@@ -519,7 +531,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 564115875
+		"common": 564088227
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -555,7 +567,7 @@
 		"name": "iblocklist_hijacked",
 		"category": "attacks",
 		"ips": 9145088,
-		"common": 624896
+		"common": 625152
 	},
 	{
 		"name": "iblocklist_iana_multicast",
@@ -612,6 +624,12 @@
 		"common": 5888
 	},
 	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 24526336,
+		"common": 256
+	},
+	{
 		"name": "iblocklist_spider",
 		"category": "organizations",
 		"ips": 860168,
@@ -645,7 +663,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 328
+		"common": 329
 	},
 	{
 		"name": "lashback_ubl",
@@ -722,7 +740,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5040,
+		"ips": 5041,
 		"common": 5
 	},
 	{
@@ -756,10 +774,22 @@
 		"common": 39956
 	},
 	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 545338,
+		"common": 1
+	},
+	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 2722
+		"common": 2723
+	},
+	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 24713472,
+		"common": 256
 	},
 	{
 		"name": "sslbl_aggressive",
@@ -832,6 +862,12 @@
 		"category": "reputation",
 		"ips": 1681,
 		"common": 3
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 30995,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
