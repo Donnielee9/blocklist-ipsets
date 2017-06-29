@@ -38,7 +38,7 @@
 [ -f 'bambenek_pushdo.ipset' ] && /usr/bin/touch --date=@1489809712 'bambenek_pushdo.ipset'
 [ -f 'bambenek_pykspa.ipset' ] && /usr/bin/touch --date=@1498695043 'bambenek_pykspa.ipset'
 [ -f 'bambenek_qakbot.ipset' ] && /usr/bin/touch --date=@1493535721 'bambenek_qakbot.ipset'
-[ -f 'bambenek_ramnit.ipset' ] && /usr/bin/touch --date=@1498698296 'bambenek_ramnit.ipset'
+[ -f 'bambenek_ramnit.ipset' ] && /usr/bin/touch --date=@1498712700 'bambenek_ramnit.ipset'
 [ -f 'bambenek_ranbyus.ipset' ] && /usr/bin/touch --date=@1496963280 'bambenek_ranbyus.ipset'
 [ -f 'bambenek_simda.ipset' ] && /usr/bin/touch --date=@1498709352 'bambenek_simda.ipset'
 [ -f 'bambenek_suppobox.ipset' ] && /usr/bin/touch --date=@1498709443 'bambenek_suppobox.ipset'
