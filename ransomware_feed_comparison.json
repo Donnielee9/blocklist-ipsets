@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40484,
+		"ips": 40475,
 		"common": 52
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 312077,
+		"ips": 312076,
 		"common": 9
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619945,
+		"ips": 9619936,
 		"common": 341
 	},
 	{
@@ -920,8 +920,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 148,
+		"ips": 153,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 209,
+		"common": 1
 	},
 	{
 		"name": "urlvir",

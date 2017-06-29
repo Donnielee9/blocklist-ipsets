@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40484,
+		"ips": 40475,
 		"common": 41
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 312077,
+		"ips": 312076,
 		"common": 365
 	},
 	{
@@ -464,7 +464,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619945,
+		"ips": 9619936,
 		"common": 233
 	},
 	{
@@ -1118,19 +1118,25 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 212,
+		"ips": 216,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 447,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 444,
-		"common": 2
+		"ips": 445,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 175,
+		"ips": 181,
 		"common": 1
 	},
 	{
