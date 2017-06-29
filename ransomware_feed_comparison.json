@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 43880,
+		"ips": 43786,
 		"common": 53
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9623207,
+		"ips": 9623119,
 		"common": 341
 	},
 	{
@@ -902,8 +902,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 153,
+		"ips": 152,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 241,
+		"common": 1
 	},
 	{
 		"name": "urlvir",

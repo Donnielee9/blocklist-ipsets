@@ -134,7 +134,7 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 1889,
+		"ips": 1886,
 		"common": 4
 	},
 	{
@@ -158,13 +158,13 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6168,
+		"ips": 6182,
 		"common": 10
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7537,
+		"ips": 7546,
 		"common": 11
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11771,
+		"ips": 11775,
 		"common": 14
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 43880,
+		"ips": 43786,
 		"common": 212
 	},
 	{
@@ -632,7 +632,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9623207,
+		"ips": 9623119,
 		"common": 1658
 	},
 	{
@@ -1460,14 +1460,14 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 911,
-		"common": 357
+		"ips": 917,
+		"common": 362
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 963,
-		"common": 365
+		"ips": 969,
+		"common": 370
 	},
 	{
 		"name": "tor_exits_30d",
@@ -1496,14 +1496,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 153,
+		"ips": 152,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 212,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 143,
-		"common": 1
+		"ips": 145,
+		"common": 2
 	},
 	{
 		"name": "urlvir",

@@ -146,7 +146,7 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 1889,
+		"ips": 1886,
 		"common": 10
 	},
 	{
@@ -170,13 +170,13 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6168,
+		"ips": 6182,
 		"common": 25
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7537,
+		"ips": 7546,
 		"common": 25
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11771,
+		"ips": 11775,
 		"common": 27
 	},
 	{
@@ -218,8 +218,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 43880,
-		"common": 224
+		"ips": 43786,
+		"common": 222
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -602,8 +602,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9623207,
-		"common": 1509
+		"ips": 9623119,
+		"common": 1507
 	},
 	{
 		"name": "firehol_proxies",
@@ -1268,25 +1268,43 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 153,
-		"common": 8
+		"ips": 152,
+		"common": 7
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 241,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 212,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 143,
-		"common": 1
+		"ips": 145,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 215,
+		"ips": 216,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_spam",
 		"category": "spam",
 		"ips": 1,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 195,
 		"common": 1
 	},
 	{

@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 43880,
+		"ips": 43786,
 		"common": 56
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9623207,
+		"ips": 9623119,
 		"common": 164
 	},
 	{
@@ -680,14 +680,14 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 911,
-		"common": 145
+		"ips": 917,
+		"common": 148
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 963,
-		"common": 147
+		"ips": 969,
+		"common": 150
 	},
 	{
 		"name": "tor_exits_30d",
@@ -712,6 +712,12 @@
 		"category": "reputation",
 		"ips": 30995,
 		"common": 32
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 195,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

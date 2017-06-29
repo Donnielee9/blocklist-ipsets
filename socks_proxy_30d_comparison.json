@@ -56,13 +56,13 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6168,
+		"ips": 6182,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7537,
+		"ips": 7546,
 		"common": 1
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11771,
+		"ips": 11775,
 		"common": 1
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 43880,
+		"ips": 43786,
 		"common": 71
 	},
 	{
@@ -398,7 +398,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9623207,
+		"ips": 9623119,
 		"common": 1008
 	},
 	{
@@ -1130,14 +1130,20 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 263,
-		"common": 1
+		"ips": 241,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 205,
-		"common": 9
+		"ips": 212,
+		"common": 23
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 195,
+		"common": 1
 	},
 	{
 		"name": "xroxy",
