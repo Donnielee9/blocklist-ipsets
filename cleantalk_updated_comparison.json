@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54592,
+		"ips": 54601,
 		"common": 202
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41501,
+		"ips": 41510,
 		"common": 185
 	},
 	{
@@ -822,15 +822,21 @@
 		"common": 17
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2085,
+		"ips": 2086,
 		"common": 20
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23197,
+		"ips": 23202,
 		"common": 39
 	},
 	{
@@ -890,7 +896,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 652,
+		"ips": 644,
 		"common": 14
 	},
 	{
@@ -902,7 +908,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2661,
+		"ips": 2659,
 		"common": 23
 	},
 	{
@@ -1004,14 +1010,8 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 150,
+		"ips": 148,
 		"common": 3
-	},
-	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 243,
-		"common": 2
 	},
 	{
 		"name": "voipbl",

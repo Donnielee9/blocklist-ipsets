@@ -494,7 +494,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54592,
+		"ips": 54601,
 		"common": 6768
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41501,
+		"ips": 41510,
 		"common": 156
 	},
 	{
@@ -998,13 +998,13 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2085,
+		"ips": 2086,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23197,
+		"ips": 23202,
 		"common": 4
 	},
 	{
@@ -1068,9 +1068,15 @@
 		"common": 1
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 652,
+		"ips": 644,
 		"common": 1
 	},
 	{
@@ -1082,7 +1088,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2661,
+		"ips": 2659,
 		"common": 3
 	},
 	{
@@ -1196,14 +1202,14 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 140,
+		"ips": 138,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 304,
-		"common": 4
+		"ips": 324,
+		"common": 1
 	},
 	{
 		"name": "uscert_hidden_cobra",
