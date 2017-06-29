@@ -32,8 +32,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35900,
-		"common": 101
+		"ips": 36055,
+		"common": 103
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 18416,
+		"common": 102
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 16274,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -50,19 +62,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1076,
+		"ips": 1034,
 		"common": 2
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16079,
+		"ips": 16074,
 		"common": 19
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5328,
+		"ips": 5294,
 		"common": 13
 	},
 	{
@@ -140,7 +152,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6822,
+		"ips": 6823,
 		"common": 1
 	},
 	{
@@ -176,7 +188,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39617,
+		"ips": 39609,
 		"common": 131
 	},
 	{
@@ -188,31 +200,31 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54628,
+		"ips": 54678,
 		"common": 104
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43187,
-		"common": 101
+		"ips": 43331,
+		"common": 103
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 127280,
+		"ips": 127284,
 		"common": 12
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9626053,
+		"ips": 9626048,
 		"common": 19
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41555,
+		"ips": 41553,
 		"common": 103
 	},
 	{
@@ -512,7 +524,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2233,
+		"ips": 2234,
 		"common": 40
 	},
 	{
@@ -558,6 +570,12 @@
 		"common": 23
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
 		"ips": 599,
@@ -566,7 +584,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5563,
+		"ips": 5561,
 		"common": 6
 	},
 	{
