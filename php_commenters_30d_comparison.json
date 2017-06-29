@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 43719,
+		"ips": 43720,
 		"common": 144
 	},
 	{
@@ -278,13 +278,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 16134,
+		"ips": 16186,
 		"common": 109
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 13924,
+		"ips": 13977,
 		"common": 108
 	},
 	{
@@ -428,7 +428,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9623052,
+		"ips": 9623053,
 		"common": 580
 	},
 	{
@@ -638,7 +638,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29135,
+		"ips": 29138,
 		"common": 36
 	},
 	{
@@ -1106,20 +1106,20 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 237,
-		"common": 7
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 234,
-		"common": 1
+		"ips": 269,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_malware",
 		"category": "malware",
 		"ips": 3,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 211,
+		"common": 3
 	},
 	{
 		"name": "xforce_bccs",

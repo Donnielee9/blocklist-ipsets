@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 43719,
+		"ips": 43720,
 		"common": 54
 	},
 	{
@@ -350,13 +350,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 16134,
+		"ips": 16186,
 		"common": 17
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 13924,
+		"ips": 13977,
 		"common": 16
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9623052,
+		"ips": 9623053,
 		"common": 9145088
 	},
 	{
@@ -758,8 +758,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29135,
-		"common": 42
+		"ips": 29138,
+		"common": 41
 	},
 	{
 		"name": "nt_malware_http",
@@ -1030,6 +1030,24 @@
 		"category": "reputation",
 		"ips": 30995,
 		"common": 12
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 205,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 211,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 444,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

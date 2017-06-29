@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 43719,
+		"ips": 43720,
 		"common": 142
 	},
 	{
@@ -308,13 +308,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 16134,
+		"ips": 16186,
 		"common": 231
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 13924,
+		"ips": 13977,
 		"common": 223
 	},
 	{
@@ -506,7 +506,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9623052,
+		"ips": 9623053,
 		"common": 561
 	},
 	{
@@ -788,7 +788,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29135,
+		"ips": 29138,
 		"common": 6
 	},
 	{
@@ -1178,8 +1178,14 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 144,
+		"ips": 145,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 211,
+		"common": 3
 	},
 	{
 		"name": "uscert_hidden_cobra",
