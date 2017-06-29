@@ -182,19 +182,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1066,
+		"ips": 1064,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16116,
+		"ips": 16111,
 		"common": 3
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5440,
+		"ips": 5423,
 		"common": 1
 	},
 	{
@@ -386,25 +386,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653522028,
-		"common": 314
+		"ips": 653522000,
+		"common": 309
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45008,
+		"ips": 45003,
 		"common": 37
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 126905,
+		"ips": 126879,
 		"common": 34
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619879,
+		"ips": 9619875,
 		"common": 345
 	},
 	{
@@ -440,7 +440,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2546,
+		"ips": 2539,
 		"common": 8
 	},
 	{
@@ -812,7 +812,7 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 12734,
+		"ips": 14287,
 		"common": 3
 	},
 	{
@@ -932,8 +932,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 154,
+		"ips": 152,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 205,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
