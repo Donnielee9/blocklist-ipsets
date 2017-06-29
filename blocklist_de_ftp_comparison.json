@@ -24,16 +24,22 @@
 		"common": 4
 	},
 	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 444,
+		"common": 1
+	},
+	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 6010,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 1766,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -45,13 +51,13 @@
 		"name": "bi_http_2_30d",
 		"category": "attacks",
 		"ips": 104,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36016,
-		"common": 353
+		"ips": 36148,
+		"common": 357
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -62,8 +68,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 43720,
-		"common": 57
+		"ips": 43663,
+		"common": 60
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -129,19 +135,19 @@
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 30739,
-		"common": 104
+		"common": 105
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 120290,
-		"common": 148
+		"common": 149
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 69180,
-		"common": 147
+		"common": 148
 	},
 	{
 		"name": "cleantalk_new",
@@ -177,19 +183,19 @@
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 35107,
-		"common": 98
+		"common": 99
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 156441,
-		"common": 156
+		"common": 158
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 85304,
-		"common": 149
+		"common": 150
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -201,7 +207,7 @@
 		"name": "cybercrime",
 		"category": "malware",
 		"ips": 27319,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "darklist_de",
@@ -242,7 +248,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 365884,
+		"ips": 365883,
 		"common": 1
 	},
 	{
@@ -303,13 +309,13 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 37863,
-		"common": 106
+		"common": 107
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 265834,
-		"common": 158
+		"common": 160
 	},
 	{
 		"name": "firehol_level1",
@@ -320,8 +326,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43772,
-		"common": 353
+		"ips": 43902,
+		"common": 357
 	},
 	{
 		"name": "firehol_level3",
@@ -332,26 +338,32 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9623056,
-		"common": 61
+		"ips": 9623001,
+		"common": 64
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 30931,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739268,
-		"common": 39
+		"common": 40
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095904,
 		"common": 4
+	},
+	{
+		"name": "gpf_comics",
+		"category": "abuse",
+		"ips": 3490,
+		"common": 1
 	},
 	{
 		"name": "greensnow",
@@ -429,7 +441,13 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 14
+		"common": 15
+	},
+	{
+		"name": "iblocklist_org_microsoft",
+		"category": "organizations",
+		"ips": 1848447,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -459,7 +477,7 @@
 		"name": "ipblacklistcloud_top",
 		"category": "abuse",
 		"ips": 232,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -482,7 +500,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29138,
+		"ips": 29819,
 		"common": 1
 	},
 	{
@@ -507,7 +525,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 32
+		"common": 33
 	},
 	{
 		"name": "ransomware_feed",
@@ -531,7 +549,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -621,7 +639,7 @@
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 151,
-		"common": 45
+		"common": 46
 	},
 	{
 		"name": "voipbl",
