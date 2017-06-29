@@ -54,6 +54,12 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 36316,
+		"common": 62
+	},
+	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 8838,
@@ -70,6 +76,18 @@
 		"category": "attacks",
 		"ips": 348,
 		"common": 50
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 3796,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 18694,
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -308,8 +326,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 17746,
-		"common": 37
+		"ips": 45290,
+		"common": 77
 	},
 	{
 		"name": "firehol_level3",
