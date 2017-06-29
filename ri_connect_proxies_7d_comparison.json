@@ -68,26 +68,32 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6816,
+		"ips": 6775,
+		"common": 1
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 55,
 		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1070,
-		"common": 25
+		"ips": 1068,
+		"common": 26
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16119,
-		"common": 235
+		"ips": 16115,
+		"common": 236
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5442,
-		"common": 145
+		"ips": 5439,
+		"common": 146
 	},
 	{
 		"name": "cleantalk",
@@ -194,7 +200,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 365408,
+		"ips": 365519,
 		"common": 992
 	},
 	{
@@ -248,7 +254,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36470,
+		"ips": 36469,
 		"common": 515
 	},
 	{
@@ -260,7 +266,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54594,
+		"ips": 54453,
 		"common": 1110
 	},
 	{
@@ -272,7 +278,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44816,
+		"ips": 44822,
 		"common": 58
 	},
 	{
@@ -284,13 +290,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619695,
-		"common": 242
+		"ips": 9619692,
+		"common": 243
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41421,
+		"ips": 41423,
 		"common": 1112
 	},
 	{
@@ -656,19 +662,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2128,
+		"ips": 2130,
 		"common": 9
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23182,
+		"ips": 23184,
 		"common": 53
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4136,
+		"ips": 4137,
 		"common": 15
 	},
 	{
@@ -722,7 +728,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 734,
+		"ips": 735,
 		"common": 83
 	},
 	{
@@ -734,7 +740,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2691,
+		"ips": 2690,
 		"common": 202
 	},
 	{
@@ -783,12 +789,6 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 30995,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 258,
 		"common": 1
 	},
 	{
