@@ -38,13 +38,13 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 1832,
+		"ips": 1828,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 2359,
+		"ips": 2358,
 		"common": 3
 	},
 	{
@@ -62,13 +62,13 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6177,
+		"ips": 6172,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7519,
+		"ips": 7520,
 		"common": 3
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11761,
+		"ips": 11766,
 		"common": 3
 	},
 	{
@@ -98,19 +98,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1079,
+		"ips": 1088,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16058,
+		"ips": 16068,
 		"common": 8
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5334,
+		"ips": 5349,
 		"common": 6
 	},
 	{
@@ -135,7 +135,7 @@
 		"name": "cidr_report_bogons",
 		"category": "unrouteable",
 		"ips": 601454536,
-		"common": 600669256
+		"common": 600673352
 	},
 	{
 		"name": "cleanmx_phishing",
@@ -150,45 +150,57 @@
 		"common": 1
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2486,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 31296,
+		"ips": 31402,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 120433,
+		"ips": 120469,
 		"common": 18
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 69162,
+		"ips": 69197,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 24301,
+		"ips": 24290,
 		"common": 3
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 35795,
+		"ips": 35872,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 156644,
+		"ips": 156693,
 		"common": 18
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 85287,
+		"ips": 85342,
 		"common": 3
 	},
 	{
@@ -206,7 +218,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 366503,
+		"ips": 366547,
 		"common": 3
 	},
 	{
@@ -314,31 +326,31 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38615,
+		"ips": 38709,
 		"common": 8
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 266009,
+		"ips": 266052,
 		"common": 99
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 653522000,
-		"common": 628213832
+		"common": 628190792
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 127340,
+		"ips": 127342,
 		"common": 2
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9622984,
+		"ips": 9623030,
 		"common": 607166
 	},
 	{
@@ -453,13 +465,13 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 590627747
+		"common": 590613923
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unrouteable",
 		"ips": 601454536,
-		"common": 600669256
+		"common": 600673352
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -471,7 +483,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 126292
+		"common": 118100
 	},
 	{
 		"name": "iblocklist_exclusions",
@@ -602,7 +614,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30075,
+		"ips": 30008,
 		"common": 4
 	},
 	{
@@ -687,7 +699,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 2593
+		"common": 2594
 	},
 	{
 		"name": "spamhaus_drop",
