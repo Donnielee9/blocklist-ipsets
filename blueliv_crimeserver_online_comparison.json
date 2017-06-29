@@ -464,7 +464,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 368776,
+		"ips": 368849,
 		"common": 260
 	},
 	{
@@ -914,8 +914,8 @@
 	{
 		"name": "iblocklist_onion_router",
 		"category": "anonymizers",
-		"ips": 6801,
-		"common": 450
+		"ips": 6713,
+		"common": 443
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -1490,14 +1490,26 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 153,
+		"ips": 154,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 308,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 145,
+		"ips": 143,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 436,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
