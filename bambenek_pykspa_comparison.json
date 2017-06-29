@@ -33,7 +33,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739268,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "hphosts_ats",
@@ -45,7 +45,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26166,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "hphosts_fsa",
@@ -99,6 +99,12 @@
 		"name": "sorbs_anonymizers",
 		"category": "spam",
 		"ips": 609175,
+		"common": 1
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 545338,
 		"common": 1
 	}
 ]
