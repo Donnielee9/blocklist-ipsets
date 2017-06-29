@@ -92,32 +92,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36027,
-		"common": 8
+		"ips": 35999,
+		"common": 7
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8916,
+		"ips": 8910,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3812,
+		"ips": 3811,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18703,
+		"ips": 18679,
 		"common": 3
-	},
-	{
-		"name": "blocklist_de_ssh",
-		"category": "attacks",
-		"ips": 15729,
-		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -242,7 +236,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45050,
+		"ips": 44990,
 		"common": 32
 	},
 	{
@@ -254,7 +248,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619930,
+		"ips": 9619924,
 		"common": 2
 	},
 	{
@@ -278,8 +272,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2536,
-		"common": 9
+		"ips": 2484,
+		"common": 10
 	},
 	{
 		"name": "haley_ssh",
@@ -440,8 +434,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 152,
+		"ips": 151,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 205,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -458,7 +458,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 175,
+		"ips": 177,
 		"common": 1
 	},
 	{
