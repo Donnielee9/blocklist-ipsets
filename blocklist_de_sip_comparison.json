@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "atlas_scans_30d",
@@ -32,14 +32,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36025,
-		"common": 142
+		"ips": 35951,
+		"common": 139
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 43680,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "ciarmy",
@@ -117,12 +117,12 @@
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 359,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
-		"ips": 120,
+		"ips": 121,
 		"common": 2
 	},
 	{
@@ -170,8 +170,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44012,
-		"common": 142
+		"ips": 43941,
+		"common": 139
 	},
 	{
 		"name": "firehol_level3",
@@ -183,7 +183,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9623027,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "firehol_webclient",
@@ -195,13 +195,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739268,
-		"common": 25
+		"common": 24
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095904,
-		"common": 25
+		"common": 23
 	},
 	{
 		"name": "greensnow",
@@ -255,7 +255,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691079,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "iblocklist_level2",
@@ -312,16 +312,22 @@
 		"common": 3
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 29295,
+		"common": 1
+	},
+	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 25
+		"common": 24
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "sorbs_noserver",
@@ -387,7 +393,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 30995,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "urandomusto_unspecified",
@@ -399,6 +405,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 28321,
-		"common": 39
+		"common": 37
 	}
 ]
