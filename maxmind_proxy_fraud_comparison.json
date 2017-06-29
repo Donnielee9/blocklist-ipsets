@@ -206,7 +206,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 370101,
+		"ips": 370141,
 		"common": 111
 	},
 	{
@@ -228,15 +228,27 @@
 		"common": 15
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 7424,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 28928,
+		"ips": 29696,
 		"common": 2
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 13312,
+		"ips": 14336,
 		"common": 2
 	},
 	{
@@ -260,14 +272,20 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54719,
+		"ips": 54717,
 		"common": 455
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 653504076,
+		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43386,
-		"common": 7
+		"ips": 44911,
+		"common": 8
 	},
 	{
 		"name": "firehol_level3",
@@ -680,7 +698,7 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 923,
+		"ips": 921,
 		"common": 148
 	},
 	{
@@ -692,13 +710,13 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2091,
+		"ips": 2092,
 		"common": 166
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1218,
+		"ips": 1214,
 		"common": 157
 	},
 	{
