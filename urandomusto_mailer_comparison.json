@@ -1,8 +1,8 @@
 [
 	{
-		"name": "bbcan177_ms1",
-		"category": "malware",
-		"ips": 5268568,
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 32352,
 		"common": 1
 	},
 	{
@@ -15,19 +15,25 @@
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 8856,
-		"common": 215
+		"common": 214
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
 		"ips": 4163,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 18496,
 		"common": 217
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 17769,
+		"common": 2
 	},
 	{
 		"name": "dshield",
@@ -54,6 +60,18 @@
 		"common": 1
 	},
 	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 24542729,
+		"common": 1
+	},
+	{
+		"name": "et_dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 653504085,
@@ -62,14 +80,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45499,
+		"ips": 45497,
 		"common": 218
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 128216,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
@@ -78,34 +96,34 @@
 		"common": 215
 	},
 	{
-		"name": "iblocklist_isp_att",
-		"category": "organizations",
-		"ips": 55845128,
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 17017,
 		"common": 1
 	},
 	{
-		"name": "iblocklist_level2",
-		"category": "reputation",
-		"ips": 346613099,
+		"name": "iblocklist_isp_verizon",
+		"category": "organizations",
+		"ips": 18087936,
 		"common": 1
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 215
+		"common": 214
 	},
 	{
-		"name": "iblocklist_org_blizzard",
-		"category": "organizations",
-		"ips": 16795139,
-		"common": 1
-	},
-	{
-		"name": "nixspam",
+		"name": "lashback_ubl",
 		"category": "spam",
-		"ips": 28173,
+		"ips": 1330810,
 		"common": 1
+	},
+	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 3346,
+		"common": 2
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -123,18 +141,24 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
-		"common": 215
+		"common": 214
+	},
+	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 12363,
+		"common": 1
 	},
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 30995,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 229,
-		"common": 210
+		"ips": 240,
+		"common": 207
 	}
 ]
