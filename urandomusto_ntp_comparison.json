@@ -74,20 +74,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35804,
+		"ips": 35642,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8837,
+		"ips": 8834,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 16112,
+		"ips": 16036,
 		"common": 2
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 46874,
+		"common": 1
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -164,13 +170,13 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 279,
+		"ips": 278,
 		"common": 20
 	},
 	{
 		"name": "dataplane_dnsrdany",
 		"category": "attacks",
-		"ips": 18,
+		"ips": 17,
 		"common": 8
 	},
 	{
@@ -182,7 +188,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 358,
+		"ips": 357,
 		"common": 6
 	},
 	{
@@ -212,7 +218,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 366906,
+		"ips": 366998,
 		"common": 1
 	},
 	{
@@ -290,8 +296,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43591,
-		"common": 48
+		"ips": 42916,
+		"common": 47
 	},
 	{
 		"name": "firehol_level3",
@@ -302,7 +308,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625636,
+		"ips": 9626098,
 		"common": 5
 	},
 	{
@@ -548,7 +554,7 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 94,
+		"ips": 96,
 		"common": 14
 	},
 	{
