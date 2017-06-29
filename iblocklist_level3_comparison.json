@@ -212,7 +212,7 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 1996,
+		"ips": 1987,
 		"common": 121
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 5860,
+		"ips": 5859,
 		"common": 318
 	},
 	{
@@ -236,25 +236,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6069,
+		"ips": 6077,
 		"common": 392
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7510,
+		"ips": 7513,
 		"common": 413
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24877,
+		"ips": 24881,
 		"common": 860
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11753,
+		"ips": 11756,
 		"common": 493
 	},
 	{
@@ -320,8 +320,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40533,
-		"common": 2270
+		"ips": 40505,
+		"common": 2268
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -368,7 +368,7 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6733,
+		"ips": 6757,
 		"common": 508
 	},
 	{
@@ -380,25 +380,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 66,
+		"ips": 62,
 		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1133,
+		"ips": 1132,
 		"common": 57
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16113,
-		"common": 796
+		"ips": 16115,
+		"common": 795
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5415,
+		"ips": 5417,
 		"common": 255
 	},
 	{
@@ -608,8 +608,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6753,
-		"common": 511
+		"ips": 6754,
+		"common": 508
 	},
 	{
 		"name": "dragon_http",
@@ -884,8 +884,8 @@
 	{
 		"name": "et_compromised",
 		"category": "attacks",
-		"ips": 1256,
-		"common": 90
+		"ips": 1243,
+		"common": 88
 	},
 	{
 		"name": "et_dshield",
@@ -914,7 +914,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35483,
+		"ips": 35481,
 		"common": 2711
 	},
 	{
@@ -926,8 +926,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54533,
-		"common": 2245
+		"ips": 54490,
+		"common": 2242
 	},
 	{
 		"name": "firehol_level1",
@@ -950,8 +950,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619991,
-		"common": 163156
+		"ips": 9619982,
+		"common": 163155
 	},
 	{
 		"name": "firehol_proxies",
@@ -1982,31 +1982,37 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 151,
+		"ips": 154,
 		"common": 13
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 228,
+		"ips": 218,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 270,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 141,
-		"common": 29
+		"ips": 143,
+		"common": 30
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 209,
+		"ips": 213,
 		"common": 14
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 148,
+		"ips": 149,
 		"common": 25
 	},
 	{
@@ -2018,26 +2024,26 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 241,
-		"common": 6
+		"ips": 423,
+		"common": 17
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 425,
-		"common": 10
+		"ips": 436,
+		"common": 11
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 180,
-		"common": 11
+		"ips": 176,
+		"common": 12
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 70,
-		"common": 13
+		"ips": 67,
+		"common": 11
 	},
 	{
 		"name": "urlvir",
@@ -2073,12 +2079,12 @@
 		"name": "xroxy",
 		"category": "anonymizers",
 		"ips": 55,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 128,
+		"ips": 129,
 		"common": 11
 	},
 	{
@@ -2090,7 +2096,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 239,
+		"ips": 238,
 		"common": 20
 	},
 	{

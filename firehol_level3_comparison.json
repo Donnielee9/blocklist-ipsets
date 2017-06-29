@@ -146,7 +146,7 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 1996,
+		"ips": 1987,
 		"common": 7
 	},
 	{
@@ -158,7 +158,7 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 5860,
+		"ips": 5859,
 		"common": 16
 	},
 	{
@@ -170,25 +170,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6069,
+		"ips": 6077,
 		"common": 20
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7510,
+		"ips": 7513,
 		"common": 22
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24877,
+		"ips": 24881,
 		"common": 29
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11753,
+		"ips": 11756,
 		"common": 25
 	},
 	{
@@ -254,8 +254,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40533,
-		"common": 356
+		"ips": 40505,
+		"common": 354
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -302,32 +302,32 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6733,
-		"common": 868
+		"ips": 6757,
+		"common": 862
 	},
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 66,
-		"common": 12
+		"ips": 62,
+		"common": 14
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1133,
+		"ips": 1132,
 		"common": 272
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16113,
-		"common": 974
+		"ips": 16115,
+		"common": 973
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5415,
-		"common": 648
+		"ips": 5417,
+		"common": 649
 	},
 	{
 		"name": "botvrij_dst",
@@ -518,8 +518,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6753,
-		"common": 865
+		"ips": 6754,
+		"common": 862
 	},
 	{
 		"name": "dragon_http",
@@ -776,8 +776,8 @@
 	{
 		"name": "et_compromised",
 		"category": "attacks",
-		"ips": 1256,
-		"common": 1166
+		"ips": 1243,
+		"common": 1197
 	},
 	{
 		"name": "et_dshield",
@@ -806,7 +806,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35483,
+		"ips": 35481,
 		"common": 1364
 	},
 	{
@@ -818,8 +818,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54533,
-		"common": 1797
+		"ips": 54490,
+		"common": 1795
 	},
 	{
 		"name": "firehol_level1",
@@ -836,8 +836,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619991,
-		"common": 2043
+		"ips": 9619982,
+		"common": 2041
 	},
 	{
 		"name": "firehol_proxies",
@@ -1826,14 +1826,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 151,
-		"common": 21
+		"ips": 154,
+		"common": 22
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 228,
-		"common": 26
+		"ips": 218,
+		"common": 8
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 270,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_malware",
@@ -1844,43 +1850,43 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 141,
-		"common": 69
+		"ips": 143,
+		"common": 70
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 209,
+		"ips": 213,
 		"common": 44
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 148,
-		"common": 47
+		"ips": 149,
+		"common": 48
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 241,
-		"common": 28
+		"ips": 423,
+		"common": 48
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 425,
+		"ips": 436,
 		"common": 102
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 180,
-		"common": 50
+		"ips": 176,
+		"common": 51
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 70,
+		"ips": 67,
 		"common": 33
 	},
 	{
@@ -1917,13 +1923,13 @@
 		"name": "xroxy",
 		"category": "anonymizers",
 		"ips": 55,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 128,
-		"common": 6
+		"ips": 129,
+		"common": 7
 	},
 	{
 		"name": "xroxy_30d",
@@ -1934,7 +1940,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 239,
+		"ips": 238,
 		"common": 11
 	},
 	{

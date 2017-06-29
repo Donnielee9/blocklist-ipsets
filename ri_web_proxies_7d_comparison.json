@@ -62,8 +62,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 40533,
-		"common": 72
+		"ips": 40505,
+		"common": 68
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -96,22 +96,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 62,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1133,
-		"common": 42
+		"ips": 1132,
+		"common": 43
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16113,
-		"common": 446
+		"ips": 16115,
+		"common": 447
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5415,
-		"common": 266
+		"ips": 5417,
+		"common": 267
 	},
 	{
 		"name": "bruteforceblocker",
@@ -272,7 +278,7 @@
 	{
 		"name": "et_compromised",
 		"category": "attacks",
-		"ips": 1256,
+		"ips": 1243,
 		"common": 1
 	},
 	{
@@ -284,7 +290,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35483,
+		"ips": 35481,
 		"common": 1014
 	},
 	{
@@ -296,7 +302,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54533,
+		"ips": 54490,
 		"common": 2015
 	},
 	{
@@ -320,8 +326,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619991,
-		"common": 465
+		"ips": 9619982,
+		"common": 463
 	},
 	{
 		"name": "firehol_proxies",
@@ -900,6 +906,12 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 270,
+		"common": 1
+	},
+	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 28321,
@@ -909,13 +921,13 @@
 		"name": "xroxy",
 		"category": "anonymizers",
 		"ips": 55,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 128,
-		"common": 26
+		"ips": 129,
+		"common": 25
 	},
 	{
 		"name": "xroxy_30d",
@@ -926,7 +938,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 239,
+		"ips": 238,
 		"common": 36
 	}
 ]
