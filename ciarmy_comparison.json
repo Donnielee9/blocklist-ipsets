@@ -170,7 +170,7 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1239,
+		"ips": 1237,
 		"common": 8
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "dataplane_sipinvitation",
 		"category": "attacks",
-		"ips": 29,
+		"ips": 28,
 		"common": 4
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 433,
+		"ips": 430,
 		"common": 30
 	},
 	{
@@ -410,8 +410,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54867,
-		"common": 2
+		"ips": 54871,
+		"common": 3
 	},
 	{
 		"name": "firehol_level1",
@@ -428,7 +428,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129731,
+		"ips": 129729,
 		"common": 17595
 	},
 	{
@@ -440,8 +440,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41699,
-		"common": 2
+		"ips": 41703,
+		"common": 3
 	},
 	{
 		"name": "firehol_webclient",
@@ -820,6 +820,30 @@
 		"category": "attacks",
 		"ips": 16155,
 		"common": 6
+	},
+	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
+		"name": "socks_proxy_1d",
+		"category": "anonymizers",
+		"ips": 2236,
+		"common": 1
+	},
+	{
+		"name": "socks_proxy_30d",
+		"category": "anonymizers",
+		"ips": 23293,
+		"common": 1
+	},
+	{
+		"name": "socks_proxy_7d",
+		"category": "anonymizers",
+		"ips": 3983,
+		"common": 1
 	},
 	{
 		"name": "sorbs_anonymizers",
