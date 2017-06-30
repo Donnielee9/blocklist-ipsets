@@ -104,25 +104,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36513,
+		"ips": 36618,
 		"common": 67
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4381,
+		"ips": 4387,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18421,
+		"ips": 18439,
 		"common": 25
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 16562,
+		"ips": 16643,
 		"common": 42
 	},
 	{
@@ -530,19 +530,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54679,
+		"ips": 54681,
 		"common": 877
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653504100,
+		"ips": 653504096,
 		"common": 170
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46545,
+		"ips": 46641,
 		"common": 71
 	},
 	{
@@ -560,7 +560,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41607,
+		"ips": 41609,
 		"common": 874
 	},
 	{
@@ -602,7 +602,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2362,
+		"ips": 2354,
 		"common": 3
 	},
 	{
@@ -1176,21 +1176,15 @@
 		"common": 8
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 1
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2256,
+		"ips": 2253,
 		"common": 34
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23250,
+		"ips": 23249,
 		"common": 86
 	},
 	{
@@ -1257,24 +1251,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 540,
+		"ips": 537,
 		"common": 12
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5559,
+		"ips": 5562,
 		"common": 71
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2607,
+		"ips": 2611,
 		"common": 29
 	},
 	{
@@ -1378,6 +1372,12 @@
 		"category": "reputation",
 		"ips": 30995,
 		"common": 26
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 308,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
