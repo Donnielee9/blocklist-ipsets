@@ -32,7 +32,7 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 2199,
+		"ips": 2209,
 		"common": 59
 	},
 	{
@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 45659,
+		"ips": 45629,
 		"common": 60
 	},
 	{
@@ -80,25 +80,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 70,
-		"common": 5
+		"ips": 63,
+		"common": 10
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1058,
-		"common": 80
+		"ips": 1080,
+		"common": 83
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16064,
+		"ips": 16072,
 		"common": 150
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5239,
+		"ips": 5231,
 		"common": 131
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 16456,
+		"ips": 16467,
 		"common": 83
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 372103,
+		"ips": 372145,
 		"common": 111
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40094,
+		"ips": 40099,
 		"common": 135
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54697,
+		"ips": 54691,
 		"common": 455
 	},
 	{
@@ -272,8 +272,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46443,
-		"common": 13
+		"ips": 46420,
+		"common": 14
 	},
 	{
 		"name": "firehol_level3",
@@ -284,13 +284,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9624952,
+		"ips": 9624931,
 		"common": 164
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41601,
+		"ips": 41595,
 		"common": 455
 	},
 	{
@@ -326,8 +326,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2350,
-		"common": 12
+		"ips": 2349,
+		"common": 13
 	},
 	{
 		"name": "haley_ssh",
@@ -500,7 +500,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 20909,
+		"ips": 19885,
 		"common": 1
 	},
 	{
@@ -724,6 +724,12 @@
 		"category": "reputation",
 		"ips": 30995,
 		"common": 32
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 325,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
