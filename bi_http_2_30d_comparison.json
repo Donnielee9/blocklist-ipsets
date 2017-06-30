@@ -74,8 +74,8 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 324,
-		"common": 17
+		"ips": 326,
+		"common": 18
 	},
 	{
 		"name": "blocklist_de_ftp",
@@ -92,8 +92,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 33117,
-		"common": 56
+		"ips": 31285,
+		"common": 55
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -108,6 +108,12 @@
 		"common": 15
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 67,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
 		"ips": 1031,
@@ -116,13 +122,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16039,
+		"ips": 16036,
 		"common": 20
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5213,
+		"ips": 5211,
 		"common": 17
 	},
 	{
@@ -242,7 +248,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 372166,
+		"ips": 372200,
 		"common": 2
 	},
 	{
@@ -308,7 +314,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39696,
+		"ips": 39697,
 		"common": 25
 	},
 	{
@@ -344,7 +350,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9613135,
+		"ips": 9611379,
 		"common": 71
 	},
 	{
@@ -734,14 +740,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 160,
+		"ips": 157,
 		"common": 6
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 275,
-		"common": 1
+		"ips": 309,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -756,9 +762,15 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 294,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 181,
+		"ips": 176,
 		"common": 3
 	},
 	{
