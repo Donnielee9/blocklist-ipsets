@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35449,
+		"ips": 35545,
 		"common": 343
 	},
 	{
@@ -108,6 +108,12 @@
 		"common": 2
 	},
 	{
+		"name": "bruteforceblocker",
+		"category": "attacks",
+		"ips": 1239,
+		"common": 1
+	},
+	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 17493,
@@ -129,19 +135,19 @@
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 32799,
-		"common": 129
+		"common": 128
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 121017,
-		"common": 157
+		"common": 156
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 68847,
-		"common": 155
+		"common": 154
 	},
 	{
 		"name": "cleantalk_new",
@@ -159,13 +165,13 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 24425,
-		"common": 75
+		"common": 74
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 5627,
-		"common": 62
+		"common": 61
 	},
 	{
 		"name": "cleantalk_updated",
@@ -177,19 +183,19 @@
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 37242,
-		"common": 117
+		"common": 116
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 157211,
-		"common": 163
+		"common": 162
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 85283,
-		"common": 156
+		"common": 155
 	},
 	{
 		"name": "cybercrime",
@@ -225,13 +231,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 16588,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 14340,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "dronebl_anonymizers",
@@ -252,39 +258,21 @@
 		"common": 2
 	},
 	{
-		"name": "dshield",
-		"category": "attacks",
-		"ips": 5120,
-		"common": 1
-	},
-	{
-		"name": "dshield_1d",
-		"category": "attacks",
-		"ips": 8192,
-		"common": 1
-	},
-	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 29440,
-		"common": 5
-	},
-	{
-		"name": "dshield_7d",
-		"category": "attacks",
-		"ips": 14592,
-		"common": 1
+		"common": 4
 	},
 	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24542729,
-		"common": 3
+		"common": 2
 	},
 	{
-		"name": "et_dshield",
+		"name": "et_compromised",
 		"category": "attacks",
-		"ips": 5120,
+		"ips": 1237,
 		"common": 1
 	},
 	{
@@ -297,24 +285,24 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 40243,
-		"common": 130
+		"common": 129
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 266577,
-		"common": 168
+		"common": 167
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 653472832,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45029,
+		"ips": 45125,
 		"common": 343
 	},
 	{
@@ -332,20 +320,20 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 30932,
+		"ips": 30934,
 		"common": 6
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34737776,
-		"common": 36
+		"common": 37
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095906,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "gpf_comics",
@@ -357,7 +345,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1772,
-		"common": 54
+		"common": 55
 	},
 	{
 		"name": "haley_ssh",
@@ -405,7 +393,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "iblocklist_level3",
@@ -423,7 +411,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -465,7 +453,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3259,
-		"common": 45
+		"common": 44
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -477,7 +465,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 28
+		"common": 29
 	},
 	{
 		"name": "ransomware_feed",
@@ -561,7 +549,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 12363,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "threatcrowd",
