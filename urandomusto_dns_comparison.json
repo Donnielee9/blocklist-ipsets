@@ -80,19 +80,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36258,
+		"ips": 36181,
 		"common": 11
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8859,
+		"common": 9
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 341,
+		"ips": 339,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4161,
+		"ips": 4165,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 18483,
 		"common": 1
 	},
 	{
@@ -140,7 +152,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 16401,
+		"ips": 16418,
 		"common": 15
 	},
 	{
@@ -212,7 +224,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45727,
+		"ips": 45653,
 		"common": 43
 	},
 	{
@@ -224,7 +236,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625760,
+		"ips": 9625628,
 		"common": 3
 	},
 	{
