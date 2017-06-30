@@ -116,26 +116,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 44,
-		"common": 3
+		"ips": 65,
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1074,
-		"common": 52
+		"ips": 1080,
+		"common": 53
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16066,
+		"ips": 16070,
 		"common": 1093
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5233,
-		"common": 420
+		"ips": 5240,
+		"common": 419
 	},
 	{
 		"name": "bruteforceblocker",
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40312,
+		"ips": 40317,
 		"common": 1718
 	},
 	{
@@ -338,13 +338,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653504105,
+		"ips": 653504099,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46633,
+		"ips": 46636,
 		"common": 206
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9624663,
+		"ips": 9624666,
 		"common": 1133
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
-		"ips": 24526336,
+		"ips": 24713472,
 		"common": 1
 	},
 	{
@@ -986,7 +986,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 14308,
+		"ips": 14309,
 		"common": 1
 	},
 	{
@@ -1004,8 +1004,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 226,
-		"common": 1
+		"ips": 286,
+		"common": 9
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 279,
+		"common": 2
 	},
 	{
 		"name": "voipbl",

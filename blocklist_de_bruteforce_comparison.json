@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40312,
+		"ips": 40317,
 		"common": 58
 	},
 	{
@@ -236,13 +236,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653504105,
+		"ips": 653504099,
 		"common": 17
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46633,
+		"ips": 46636,
 		"common": 325
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9624663,
+		"ips": 9624666,
 		"common": 207
 	},
 	{
@@ -284,8 +284,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2360,
-		"common": 40
+		"ips": 2361,
+		"common": 38
 	},
 	{
 		"name": "haley_ssh",
@@ -368,7 +368,7 @@
 	{
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
-		"ips": 24526336,
+		"ips": 24713472,
 		"common": 17
 	},
 	{
@@ -560,8 +560,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 158,
-		"common": 15
+		"ips": 162,
+		"common": 18
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 286,
+		"common": 9
 	},
 	{
 		"name": "voipbl",
