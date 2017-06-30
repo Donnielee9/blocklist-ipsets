@@ -74,13 +74,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35726,
+		"ips": 35832,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 16181,
+		"ips": 16241,
 		"common": 1
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 24286,
+		"ips": 24285,
 		"common": 1
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 359,
+		"ips": 358,
 		"common": 2
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 451,
+		"ips": 446,
 		"common": 1
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39743,
+		"ips": 39744,
 		"common": 2
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45247,
+		"ips": 45371,
 		"common": 16
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9604579,
+		"ips": 9604571,
 		"common": 11
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1718,
+		"ips": 1733,
 		"common": 5
 	},
 	{
@@ -476,7 +476,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 22885,
+		"ips": 22569,
 		"common": 2
 	},
 	{
@@ -602,14 +602,20 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 384,
-		"common": 1
+		"ips": 401,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 221,
+		"ips": 222,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 443,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_vnc",

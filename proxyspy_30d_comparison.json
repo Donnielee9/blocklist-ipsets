@@ -38,37 +38,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35726,
+		"ips": 35832,
 		"common": 37
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 242,
+		"ips": 243,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4370,
+		"ips": 4375,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18016,
+		"ips": 18054,
 		"common": 26
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 16181,
+		"ips": 16241,
 		"common": 2
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 24286,
+		"ips": 24285,
 		"common": 142
 	},
 	{
@@ -108,22 +108,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 59,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1053,
-		"common": 28
+		"ips": 1060,
+		"common": 29
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16005,
-		"common": 533
+		"ips": 16001,
+		"common": 532
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5137,
-		"common": 178
+		"ips": 5136,
+		"common": 179
 	},
 	{
 		"name": "ciarmy",
@@ -212,7 +218,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6797,
+		"ips": 6806,
 		"common": 1
 	},
 	{
@@ -314,7 +320,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39743,
+		"ips": 39744,
 		"common": 932
 	},
 	{
@@ -326,7 +332,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54715,
+		"ips": 54771,
 		"common": 6701
 	},
 	{
@@ -338,7 +344,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45247,
+		"ips": 45371,
 		"common": 37
 	},
 	{
@@ -350,8 +356,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9604579,
-		"common": 585
+		"ips": 9604571,
+		"common": 584
 	},
 	{
 		"name": "firehol_proxies",
@@ -566,7 +572,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 22885,
+		"ips": 22569,
 		"common": 26
 	},
 	{
@@ -822,15 +828,9 @@
 		"common": 1
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 1
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2264,
+		"ips": 2263,
 		"common": 14
 	},
 	{
@@ -992,7 +992,7 @@
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 297,
+		"ips": 299,
 		"common": 1
 	},
 	{
