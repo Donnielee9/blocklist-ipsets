@@ -188,19 +188,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35667,
-		"common": 191
+		"ips": 35609,
+		"common": 187
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9008,
+		"common": 10
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 246,
+		"ips": 243,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 331,
+		"ips": 335,
 		"common": 6
 	},
 	{
@@ -210,27 +216,33 @@
 		"common": 10
 	},
 	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 18087,
+		"common": 87
+	},
+	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 216,
+		"ips": 217,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 16047,
-		"common": 85
+		"ips": 15992,
+		"common": 83
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 133,
+		"ips": 132,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 24142,
+		"ips": 24156,
 		"common": 239
 	},
 	{
@@ -458,7 +470,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 361,
+		"ips": 363,
 		"common": 2
 	},
 	{
@@ -542,7 +554,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 50979,
+		"ips": 50981,
 		"common": 380
 	},
 	{
@@ -806,8 +818,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45222,
-		"common": 723
+		"ips": 45166,
+		"common": 719
 	},
 	{
 		"name": "firehol_level3",
@@ -818,7 +830,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9604440,
+		"ips": 9604454,
 		"common": 179370
 	},
 	{
@@ -1202,8 +1214,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 22711,
-		"common": 187
+		"ips": 22218,
+		"common": 182
 	},
 	{
 		"name": "nt_malware_dns",

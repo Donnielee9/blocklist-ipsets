@@ -20,20 +20,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35667,
-		"common": 176
+		"ips": 35609,
+		"common": 177
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 24142,
+		"ips": 24156,
 		"common": 25
-	},
-	{
-		"name": "bruteforceblocker",
-		"category": "attacks",
-		"ips": 1239,
-		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -92,7 +86,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 361,
+		"ips": 363,
 		"common": 9
 	},
 	{
@@ -100,18 +94,6 @@
 		"category": "attacks",
 		"ips": 120,
 		"common": 2
-	},
-	{
-		"name": "dataplane_sshclient",
-		"category": "attacks",
-		"ips": 16550,
-		"common": 2
-	},
-	{
-		"name": "dataplane_sshpwauth",
-		"category": "attacks",
-		"ips": 14303,
-		"common": 1
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -123,12 +105,6 @@
 		"name": "et_botcc",
 		"category": "reputation",
 		"ips": 529,
-		"common": 1
-	},
-	{
-		"name": "et_compromised",
-		"category": "attacks",
-		"ips": 1237,
 		"common": 1
 	},
 	{
@@ -146,19 +122,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45222,
-		"common": 176
+		"ips": 45166,
+		"common": 177
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 129515,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9604440,
+		"ips": 9604454,
 		"common": 32
 	},
 	{
@@ -171,7 +147,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34737776,
-		"common": 22
+		"common": 21
 	},
 	{
 		"name": "gofferje_sip",
@@ -278,26 +254,20 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 22711,
-		"common": 1
-	},
-	{
-		"name": "packetmail",
-		"category": "reputation",
-		"ips": 3259,
+		"ips": 22218,
 		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 21
+		"common": 20
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "sorbs_noserver",
