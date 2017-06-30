@@ -56,32 +56,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35707,
+		"ips": 35648,
 		"common": 274
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8989,
+		"ips": 8985,
 		"common": 2
-	},
-	{
-		"name": "blocklist_de_ftp",
-		"category": "attacks",
-		"ips": 345,
-		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18507,
+		"ips": 18530,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15731,
-		"common": 270
+		"ips": 15652,
+		"common": 271
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -320,7 +314,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54849,
+		"ips": 54858,
 		"common": 2
 	},
 	{
@@ -332,7 +326,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46075,
+		"ips": 46017,
 		"common": 276
 	},
 	{
@@ -350,7 +344,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41717,
+		"ips": 41726,
 		"common": 1
 	},
 	{
@@ -538,6 +532,12 @@
 		"category": "spam",
 		"ips": 1334611,
 		"common": 11
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 37477,
+		"common": 1
 	},
 	{
 		"name": "nt_ssh_7d",
