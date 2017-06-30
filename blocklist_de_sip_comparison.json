@@ -36,10 +36,16 @@
 		"common": 2
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 36625,
+		"common": 165
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 45378,
-		"common": 49
+		"common": 50
 	},
 	{
 		"name": "ciarmy",
@@ -116,7 +122,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 359,
+		"ips": 357,
 		"common": 10
 	},
 	{
@@ -158,8 +164,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 18741,
-		"common": 2
+		"ips": 46656,
+		"common": 165
 	},
 	{
 		"name": "firehol_level3",
@@ -171,7 +177,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9624695,
-		"common": 54
+		"common": 55
 	},
 	{
 		"name": "firehol_webclient",
@@ -255,7 +261,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -316,6 +322,12 @@
 		"category": "spam",
 		"ips": 22951270,
 		"common": 2
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 545338,
+		"common": 1
 	},
 	{
 		"name": "sorbs_web",

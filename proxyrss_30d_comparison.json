@@ -48,6 +48,12 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 36625,
+		"common": 44
+	},
+	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
 		"ips": 254,
@@ -56,8 +62,14 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4346,
+		"ips": 4356,
 		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 18574,
+		"common": 40
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -338,8 +350,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 18741,
-		"common": 1
+		"ips": 46656,
+		"common": 45
 	},
 	{
 		"name": "firehol_level3",
@@ -356,7 +368,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41616,
+		"ips": 41617,
 		"common": 4889
 	},
 	{
@@ -590,8 +602,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 19490,
-		"common": 40
+		"ips": 19873,
+		"common": 41
 	},
 	{
 		"name": "nullsecure",
@@ -854,19 +866,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2266,
+		"ips": 2270,
 		"common": 13
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23257,
+		"ips": 23259,
 		"common": 143
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3958,
+		"ips": 3959,
 		"common": 18
 	},
 	{
@@ -921,24 +933,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
 		"ips": 552,
-		"common": 70
+		"common": 71
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5563,
+		"ips": 5562,
 		"common": 369
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2618,
+		"ips": 2617,
 		"common": 176
 	},
 	{
@@ -992,7 +1004,7 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 919,
+		"ips": 920,
 		"common": 1
 	},
 	{
@@ -1004,7 +1016,7 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2089,
+		"ips": 2090,
 		"common": 1
 	},
 	{

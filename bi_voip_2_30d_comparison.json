@@ -30,9 +30,15 @@
 		"common": 4
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 36625,
+		"common": 2
+	},
+	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 204,
+		"ips": 205,
 		"common": 2
 	},
 	{
@@ -74,7 +80,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 359,
+		"ips": 357,
 		"common": 1
 	},
 	{
@@ -88,6 +94,12 @@
 		"category": "abuse",
 		"ips": 266270,
 		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 46656,
+		"common": 2
 	},
 	{
 		"name": "firehol_level3",
