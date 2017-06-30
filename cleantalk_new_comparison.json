@@ -62,25 +62,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 62,
-		"common": 5
+		"ips": 70,
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1076,
+		"ips": 1102,
 		"common": 27
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15996,
+		"ips": 16003,
 		"common": 27
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5139,
+		"ips": 5114,
 		"common": 27
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 41046,
+		"ips": 41052,
 		"common": 525
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54847,
+		"ips": 54848,
 		"common": 36
 	},
 	{
@@ -206,13 +206,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9602299,
+		"ips": 9602306,
 		"common": 34
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41707,
+		"ips": 41708,
 		"common": 32
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1807,
+		"ips": 1808,
 		"common": 2
 	},
 	{
@@ -368,19 +368,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2259,
+		"ips": 2258,
 		"common": 8
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23296,
+		"ips": 23297,
 		"common": 12
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3975,
+		"ips": 3976,
 		"common": 8
 	},
 	{
@@ -422,19 +422,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 559,
+		"ips": 560,
 		"common": 19
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5601,
+		"ips": 5602,
 		"common": 19
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2571,
+		"ips": 2572,
 		"common": 19
 	},
 	{
@@ -524,7 +524,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 417,
+		"ips": 432,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 425,
 		"common": 1
 	}
 ]
