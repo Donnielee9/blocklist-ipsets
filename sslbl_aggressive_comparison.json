@@ -216,6 +216,18 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 7680,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 29696,
@@ -224,8 +236,8 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 14336,
-		"common": 2
+		"ips": 14592,
+		"common": 3
 	},
 	{
 		"name": "dshield_top_1000",
@@ -423,7 +435,13 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 653504085,
-		"common": 548
+		"common": 549
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 45727,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
@@ -698,7 +716,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28173,
+		"ips": 27980,
 		"common": 1
 	},
 	{
