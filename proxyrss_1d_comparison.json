@@ -26,19 +26,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36430,
+		"ips": 36311,
 		"common": 29
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 260,
+		"ips": 258,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18479,
+		"ips": 18474,
 		"common": 25
 	},
 	{
@@ -90,21 +90,27 @@
 		"common": 2
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 70,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1046,
-		"common": 19
+		"ips": 1058,
+		"common": 18
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16067,
+		"ips": 16064,
 		"common": 378
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5236,
+		"ips": 5239,
 		"common": 134
 	},
 	{
@@ -224,7 +230,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40135,
+		"ips": 40143,
 		"common": 604
 	},
 	{
@@ -242,19 +248,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46200,
+		"ips": 46080,
 		"common": 30
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 127573,
+		"ips": 127570,
 		"common": 62
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585413,
+		"ips": 9585410,
 		"common": 376
 	},
 	{
@@ -702,9 +708,15 @@
 		"common": 2
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2275,
+		"ips": 2271,
 		"common": 8
 	},
 	{
@@ -716,7 +728,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3969,
+		"ips": 3963,
 		"common": 12
 	},
 	{
@@ -765,12 +777,12 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 12
+		"common": 14
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 561,
+		"ips": 560,
 		"common": 50
 	},
 	{
@@ -782,8 +794,8 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2625,
-		"common": 118
+		"ips": 2622,
+		"common": 119
 	},
 	{
 		"name": "stopforumspam",
