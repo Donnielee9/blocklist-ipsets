@@ -62,8 +62,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36166,
+		"ips": 36223,
 		"common": 341
+	},
+	{
+		"name": "blocklist_de_bruteforce",
+		"category": "attacks",
+		"ips": 315,
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -74,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 46363,
+		"ips": 46296,
 		"common": 50
 	},
 	{
@@ -248,7 +254,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 371044,
+		"ips": 371046,
 		"common": 1
 	},
 	{
@@ -314,7 +320,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40658,
+		"ips": 39393,
 		"common": 108
 	},
 	{
@@ -332,7 +338,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45646,
+		"ips": 45704,
 		"common": 341
 	},
 	{
@@ -344,7 +350,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625611,
+		"ips": 9625546,
 		"common": 55
 	},
 	{
@@ -357,7 +363,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739334,
-		"common": 38
+		"common": 36
 	},
 	{
 		"name": "gofferje_sip",
@@ -387,7 +393,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26222,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "hphosts_fsa",
@@ -422,8 +428,8 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762691079,
-		"common": 11
+		"ips": 762690711,
+		"common": 10
 	},
 	{
 		"name": "iblocklist_level2",
@@ -436,6 +442,12 @@
 		"category": "reputation",
 		"ips": 139023007,
 		"common": 12
+	},
+	{
+		"name": "iblocklist_org_microsoft",
+		"category": "organizations",
+		"ips": 1848447,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -501,7 +513,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 30
+		"common": 29
 	},
 	{
 		"name": "ransomware_feed",
