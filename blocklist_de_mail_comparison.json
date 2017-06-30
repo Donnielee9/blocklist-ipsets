@@ -26,8 +26,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 744,
-		"common": 15
+		"ips": 754,
+		"common": 17
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -56,7 +56,7 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 2121,
+		"ips": 2116,
 		"common": 1
 	},
 	{
@@ -74,25 +74,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6152,
+		"ips": 6153,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7457,
+		"ips": 7459,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24857,
+		"ips": 24858,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11709,
+		"ips": 11708,
 		"common": 3
 	},
 	{
@@ -162,15 +162,21 @@
 		"common": 7
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 55,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1057,
-		"common": 13
+		"ips": 1058,
+		"common": 12
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15978,
+		"ips": 15990,
 		"common": 173
 	},
 	{
@@ -302,14 +308,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 16588,
-		"common": 43
+		"ips": 16658,
+		"common": 44
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 14340,
-		"common": 38
+		"ips": 14400,
+		"common": 39
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -332,7 +338,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 372271,
+		"ips": 372270,
 		"common": 1776
 	},
 	{
@@ -488,7 +494,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40315,
+		"ips": 40319,
 		"common": 598
 	},
 	{
@@ -512,7 +518,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45068,
+		"ips": 45072,
 		"common": 18135
 	},
 	{
@@ -524,7 +530,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9605511,
+		"ips": 9605523,
 		"common": 519
 	},
 	{
@@ -566,8 +572,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1772,
-		"common": 160
+		"ips": 1781,
+		"common": 166
 	},
 	{
 		"name": "haley_ssh",
@@ -824,8 +830,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36426,
-		"common": 900
+		"ips": 37546,
+		"common": 767
 	},
 	{
 		"name": "nullsecure",
@@ -1298,25 +1304,31 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 158,
-		"common": 1
+		"ips": 169,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 301,
-		"common": 69
+		"ips": 360,
+		"common": 90
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 171,
+		"ips": 172,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 445,
+		"common": 14
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 68,
+		"ips": 66,
 		"common": 1
 	},
 	{
