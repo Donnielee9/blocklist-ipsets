@@ -18,10 +18,16 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 36112,
+		"common": 170
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 25401,
-		"common": 31
+		"ips": 26055,
+		"common": 33
 	},
 	{
 		"name": "ciarmy",
@@ -81,7 +87,7 @@
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 358,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "dataplane_sipregistration",
@@ -110,7 +116,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39686,
+		"ips": 39760,
 		"common": 4
 	},
 	{
@@ -122,8 +128,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 18687,
-		"common": 2
+		"ips": 46104,
+		"common": 170
 	},
 	{
 		"name": "firehol_level3",
@@ -134,8 +140,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9605737,
-		"common": 38
+		"ips": 9606348,
+		"common": 40
 	},
 	{
 		"name": "firehol_webclient",
@@ -153,7 +159,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095906,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "greensnow",
@@ -254,7 +260,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 21972,
+		"ips": 22749,
 		"common": 1
 	},
 	{
@@ -321,6 +327,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 28383,
-		"common": 34
+		"common": 35
 	}
 ]

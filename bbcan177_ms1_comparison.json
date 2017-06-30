@@ -144,15 +144,27 @@
 		"common": 3
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 36112,
+		"common": 9
+	},
+	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
 		"ips": 352,
 		"common": 1
 	},
 	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 18096,
+		"common": 7
+	},
+	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 16514,
+		"ips": 16489,
 		"common": 1
 	},
 	{
@@ -164,7 +176,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 25401,
+		"ips": 26055,
 		"common": 12
 	},
 	{
@@ -374,7 +386,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6792,
+		"ips": 6781,
 		"common": 18
 	},
 	{
@@ -518,7 +530,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39686,
+		"ips": 39760,
 		"common": 4
 	},
 	{
@@ -530,7 +542,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54654,
+		"ips": 54693,
 		"common": 23
 	},
 	{
@@ -542,8 +554,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 18687,
-		"common": 38
+		"ips": 46104,
+		"common": 47
 	},
 	{
 		"name": "firehol_level3",
@@ -554,7 +566,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9605737,
+		"ips": 9606348,
 		"common": 346
 	},
 	{
@@ -896,7 +908,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 21972,
+		"ips": 22749,
 		"common": 4
 	},
 	{
@@ -944,8 +956,8 @@
 	{
 		"name": "ransomware_locky_c2",
 		"category": "malware",
-		"ips": 260,
-		"common": 44
+		"ips": 259,
+		"common": 43
 	},
 	{
 		"name": "ransomware_online",
@@ -1046,7 +1058,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4962,
+		"ips": 5093,
 		"common": 1
 	},
 	{
