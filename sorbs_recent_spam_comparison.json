@@ -182,7 +182,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 46255,
+		"ips": 46176,
 		"common": 1821
 	},
 	{
@@ -314,62 +314,74 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2521,
-		"common": 19
+		"ips": 2529,
+		"common": 28
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 32669,
-		"common": 460
+		"ips": 32743,
+		"common": 462
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 120625,
-		"common": 2482
+		"ips": 120653,
+		"common": 2483
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 69383,
+		"ips": 69406,
 		"common": 1294
+	},
+	{
+		"name": "cleantalk_new",
+		"category": "abuse",
+		"ips": 550,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_new_1d",
+		"category": "abuse",
+		"ips": 1216,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 24330,
-		"common": 88
+		"ips": 24345,
+		"common": 89
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 6173,
-		"common": 11
+		"ips": 6182,
+		"common": 12
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 19
+		"common": 27
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 37493,
-		"common": 479
+		"ips": 37557,
+		"common": 480
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 156865,
+		"ips": 156876,
 		"common": 2833
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 85785,
-		"common": 1421
+		"ips": 85794,
+		"common": 1420
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -446,7 +458,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 371112,
+		"ips": 371140,
 		"common": 7657
 	},
 	{
@@ -698,14 +710,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39412,
-		"common": 516
+		"ips": 39491,
+		"common": 517
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 265780,
-		"common": 4225
+		"ips": 265809,
+		"common": 4226
 	},
 	{
 		"name": "firehol_anonymous",
@@ -734,7 +746,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625522,
+		"ips": 9625444,
 		"common": 4688
 	},
 	{
@@ -1178,14 +1190,14 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 93,
-		"common": 8
+		"ips": 98,
+		"common": 9
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2365,
-		"common": 10
+		"ips": 2330,
+		"common": 11
 	},
 	{
 		"name": "php_commenters_1d",
