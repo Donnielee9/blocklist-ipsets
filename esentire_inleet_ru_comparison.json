@@ -18,27 +18,33 @@
 		"common": 429
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 36194,
+		"common": 2
+	},
+	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9000,
+		"ips": 9003,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 330,
+		"ips": 332,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 16490,
+		"ips": 16551,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 26328,
+		"ips": 26343,
 		"common": 1
 	},
 	{
@@ -282,6 +288,12 @@
 		"common": 3
 	},
 	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 45306,
+		"common": 2
+	},
+	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 129378,
@@ -290,7 +302,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9606616,
+		"ips": 9606630,
 		"common": 1
 	},
 	{
@@ -326,7 +338,7 @@
 	{
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unrouteable",
-		"ips": 601454536,
+		"ips": 601435080,
 		"common": 2
 	},
 	{

@@ -108,6 +108,12 @@
 		"common": 2
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 36194,
+		"common": 1215
+	},
+	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
 		"ips": 246,
@@ -116,19 +122,19 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4400,
+		"ips": 4411,
 		"common": 13
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18078,
-		"common": 1172
+		"ips": 18108,
+		"common": 1174
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 16490,
+		"ips": 16551,
 		"common": 4
 	},
 	{
@@ -140,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 26328,
+		"ips": 26343,
 		"common": 330
 	},
 	{
@@ -518,8 +524,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 17607,
-		"common": 18
+		"ips": 45306,
+		"common": 1233
 	},
 	{
 		"name": "firehol_level3",
@@ -530,8 +536,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9606616,
-		"common": 2652
+		"ips": 9606630,
+		"common": 2650
 	},
 	{
 		"name": "firehol_webclient",
@@ -831,7 +837,7 @@
 		"name": "ipblacklistcloud_top",
 		"category": "abuse",
 		"ips": 232,
-		"common": 39
+		"common": 38
 	},
 	{
 		"name": "iw_spamlist",
