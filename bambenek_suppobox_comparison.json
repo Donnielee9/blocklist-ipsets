@@ -15,7 +15,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 360,
-		"common": 102
+		"common": 100
 	},
 	{
 		"name": "bambenek_pykspa",
@@ -69,7 +69,19 @@
 		"name": "cleanmx_viruses",
 		"category": "spam",
 		"ips": 12190,
-		"common": 10
+		"common": 11
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 121077,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 157216,
+		"common": 1
 	},
 	{
 		"name": "cta_cryptowall",
@@ -78,16 +90,22 @@
 		"common": 7
 	},
 	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 266165,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 653472586,
-		"common": 102
+		"common": 100
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9602271,
-		"common": 10
+		"ips": 9602299,
+		"common": 11
 	},
 	{
 		"name": "firehol_webserver",
@@ -105,7 +123,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26222,
-		"common": 43
+		"common": 44
 	},
 	{
 		"name": "hphosts_exp",
@@ -117,7 +135,7 @@
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 26106,
-		"common": 50
+		"common": 49
 	},
 	{
 		"name": "hphosts_grm",
@@ -147,7 +165,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 28827,
-		"common": 36
+		"common": 38
 	},
 	{
 		"name": "hphosts_wrz",
