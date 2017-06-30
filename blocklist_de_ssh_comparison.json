@@ -86,8 +86,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 25367,
-		"common": 635
+		"ips": 25328,
+		"common": 634
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -230,7 +230,13 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 363,
+		"ips": 362,
+		"common": 1
+	},
+	{
+		"name": "dataplane_sipregistration",
+		"category": "attacks",
+		"ips": 121,
 		"common": 1
 	},
 	{
@@ -248,7 +254,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 436,
+		"ips": 433,
 		"common": 2
 	},
 	{
@@ -410,7 +416,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653505088,
+		"ips": 653472832,
 		"common": 2
 	},
 	{
@@ -428,8 +434,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9605580,
-		"common": 1203
+		"ips": 9605541,
+		"common": 1202
 	},
 	{
 		"name": "firehol_proxies",
@@ -668,8 +674,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32466,
-		"common": 164
+		"ips": 36426,
+		"common": 134
 	},
 	{
 		"name": "nt_ssh_7d",
