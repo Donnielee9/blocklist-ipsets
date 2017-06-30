@@ -14,13 +14,13 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 1976,
+		"ips": 1974,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 5153,
+		"ips": 5150,
 		"common": 6
 	},
 	{
@@ -32,13 +32,13 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6073,
+		"ips": 6084,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7461,
+		"ips": 7462,
 		"common": 5
 	},
 	{
@@ -56,25 +56,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36484,
+		"ips": 36422,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4387,
+		"ips": 4388,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18322,
+		"ips": 18279,
 		"common": 3
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 43285,
+		"ips": 43196,
 		"common": 3
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46511,
+		"ips": 46450,
 		"common": 4
 	},
 	{
@@ -302,13 +302,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9622740,
+		"ips": 9622660,
 		"common": 22
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41611,
+		"ips": 41612,
 		"common": 17
 	},
 	{
@@ -458,8 +458,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3300,
-		"common": 4
+		"ips": 3304,
+		"common": 3
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -480,10 +480,16 @@
 		"common": 1
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2243,
-		"common": 7
+		"ips": 2254,
+		"common": 8
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -572,8 +578,8 @@
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
-		"ips": 20147,
-		"common": 2
+		"ips": 19193,
+		"common": 3
 	},
 	{
 		"name": "stopforumspam_90d",
