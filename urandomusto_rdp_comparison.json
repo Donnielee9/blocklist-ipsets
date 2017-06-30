@@ -21,7 +21,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 5954,
-		"common": 58
+		"common": 61
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -32,25 +32,25 @@
 	{
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
-		"ips": 4535,
+		"ips": 4635,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36422,
+		"ips": 36375,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8995,
+		"ips": 8991,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 16608,
+		"ips": 16591,
 		"common": 1
 	},
 	{
@@ -182,19 +182,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46450,
+		"ips": 46402,
 		"common": 27
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 129288,
-		"common": 47
+		"common": 46
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9622648,
+		"ips": 9622626,
 		"common": 3
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2353,
+		"ips": 2347,
 		"common": 15
 	},
 	{
@@ -231,7 +231,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -318,12 +318,6 @@
 		"common": 3
 	},
 	{
-		"name": "myip",
-		"category": "abuse",
-		"ips": 2908,
-		"common": 1
-	},
-	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -333,7 +327,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3304,
-		"common": 59
+		"common": 60
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -345,7 +339,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2302,
-		"common": 41
+		"common": 42
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -387,13 +381,13 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 12363,
-		"common": 36
+		"common": 37
 	},
 	{
 		"name": "threatcrowd",
@@ -411,7 +405,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 30995,
-		"common": 48
+		"common": 49
 	},
 	{
 		"name": "urandomusto_dns",
@@ -420,21 +414,27 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 275,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 141,
+		"ips": 142,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 163,
+		"ips": 164,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 185,
+		"ips": 181,
 		"common": 1
 	},
 	{
