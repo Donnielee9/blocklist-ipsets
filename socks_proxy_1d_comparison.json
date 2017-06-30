@@ -21,7 +21,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 6010,
-		"common": 71
+		"common": 70
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -33,7 +33,7 @@
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
 		"ips": 1364,
-		"common": 71
+		"common": 70
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -86,20 +86,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36375,
-		"common": 709
+		"ips": 36373,
+		"common": 707
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4384,
-		"common": 2
+		"ips": 4381,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18250,
-		"common": 709
+		"ips": 18236,
+		"common": 707
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -153,13 +153,13 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 120989,
-		"common": 1473
+		"common": 1474
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 68959,
-		"common": 1373
+		"common": 1374
 	},
 	{
 		"name": "cleantalk_new",
@@ -201,13 +201,13 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 157274,
-		"common": 1490
+		"common": 1491
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 85342,
-		"common": 1388
+		"common": 1389
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -308,19 +308,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39731,
-		"common": 872
+		"ips": 39802,
+		"common": 873
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 266378,
-		"common": 1538
+		"common": 1539
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54682,
+		"ips": 54675,
 		"common": 2243
 	},
 	{
@@ -332,8 +332,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46402,
-		"common": 711
+		"ips": 46404,
+		"common": 709
 	},
 	{
 		"name": "firehol_level3",
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41608,
+		"ips": 41601,
 		"common": 2243
 	},
 	{
@@ -543,7 +543,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1334611,
-		"common": 949
+		"common": 948
 	},
 	{
 		"name": "myip",
@@ -554,8 +554,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 22021,
-		"common": 579
+		"ips": 21728,
+		"common": 561
 	},
 	{
 		"name": "nullsecure",
@@ -800,13 +800,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23240,
+		"ips": 23235,
 		"common": 2260
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3947,
+		"ips": 3943,
 		"common": 2260
 	},
 	{
@@ -819,13 +819,13 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 411
+		"common": 410
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 35223,
-		"common": 267
+		"common": 266
 	},
 	{
 		"name": "sorbs_noserver",
@@ -837,19 +837,25 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 542
+		"common": 541
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 204
+		"common": 203
 	},
 	{
 		"name": "spamhaus_drop",
 		"category": "reputation",
 		"ips": 24713472,
 		"common": 3
+	},
+	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
 	},
 	{
 		"name": "sslproxies_1d",
@@ -860,13 +866,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5566,
+		"ips": 5564,
 		"common": 28
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2614,
+		"ips": 2613,
 		"common": 25
 	},
 	{
@@ -879,13 +885,13 @@
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 292142,
-		"common": 801
+		"common": 800
 	},
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4734,
-		"common": 103
+		"ips": 4850,
+		"common": 104
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -897,7 +903,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 391336,
-		"common": 831
+		"common": 830
 	},
 	{
 		"name": "stopforumspam_7d",
