@@ -1,5 +1,11 @@
 [
 	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 653472895,
+		"common": 2
+	},
+	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34737687,
@@ -26,7 +32,7 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762690711,
+		"ips": 762691393,
 		"common": 1
 	},
 	{
@@ -40,6 +46,12 @@
 		"category": "malware",
 		"ips": 5041,
 		"common": 3
+	},
+	{
+		"name": "ransomware_rw",
+		"category": "malware",
+		"ips": 366,
+		"common": 2
 	},
 	{
 		"name": "urlvir",
