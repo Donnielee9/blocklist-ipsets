@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14163,
+		"ips": 14160,
 		"common": 102
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54921,
+		"ips": 54912,
 		"common": 13
 	},
 	{
@@ -296,13 +296,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9594848,
+		"ips": 9594845,
 		"common": 143
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41722,
+		"ips": 41713,
 		"common": 10
 	},
 	{
@@ -516,6 +516,12 @@
 		"common": 2
 	},
 	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 3057,
+		"common": 1
+	},
+	{
 		"name": "php_commenters",
 		"category": "spam",
 		"ips": 50,
@@ -644,19 +650,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2300,
+		"ips": 2302,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23224,
+		"ips": 23215,
 		"common": 3
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3982,
+		"ips": 3983,
 		"common": 3
 	},
 	{
@@ -734,8 +740,8 @@
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
-		"ips": 19193,
-		"common": 11
+		"ips": 19375,
+		"common": 10
 	},
 	{
 		"name": "stopforumspam_90d",
@@ -788,7 +794,13 @@
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 450,
-		"common": 3
+		"ips": 449,
+		"common": 4
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 434,
+		"common": 1
 	}
 ]

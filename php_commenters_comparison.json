@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14163,
+		"ips": 14160,
 		"common": 14
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54921,
+		"ips": 54912,
 		"common": 30
 	},
 	{
@@ -308,13 +308,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9594848,
+		"ips": 9594845,
 		"common": 44
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41722,
+		"ips": 41713,
 		"common": 10
 	},
 	{
@@ -468,6 +468,12 @@
 		"common": 1
 	},
 	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 3057,
+		"common": 1
+	},
+	{
 		"name": "packetmail_mail",
 		"category": "reputation",
 		"ips": 116,
@@ -590,8 +596,8 @@
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
-		"ips": 19193,
-		"common": 41
+		"ips": 19375,
+		"common": 43
 	},
 	{
 		"name": "stopforumspam_90d",
@@ -652,5 +658,11 @@
 		"category": "reputation",
 		"ips": 30995,
 		"common": 10
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 434,
+		"common": 1
 	}
 ]

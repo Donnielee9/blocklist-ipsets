@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14163,
+		"ips": 14160,
 		"common": 10
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9594848,
+		"ips": 9594845,
 		"common": 509
 	},
 	{
@@ -434,8 +434,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3100,
-		"common": 7
+		"ips": 3057,
+		"common": 9
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -534,9 +534,15 @@
 		"common": 54
 	},
 	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 449,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 432,
+		"ips": 434,
 		"common": 7
 	},
 	{
