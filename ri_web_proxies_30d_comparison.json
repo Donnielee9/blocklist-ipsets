@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14152,
+		"ips": 14150,
 		"common": 161
 	},
 	{
@@ -114,28 +114,22 @@
 		"common": 1
 	},
 	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 32,
-		"common": 1
-	},
-	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1091,
+		"ips": 1077,
 		"common": 60
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16019,
+		"ips": 16014,
 		"common": 1108
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5024,
-		"common": 413
+		"ips": 5005,
+		"common": 411
 	},
 	{
 		"name": "bruteforceblocker",
@@ -248,13 +242,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 17129,
+		"ips": 17178,
 		"common": 6
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 14827,
+		"ips": 14864,
 		"common": 4
 	},
 	{
@@ -290,7 +284,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 128576,
+		"ips": 128583,
 		"common": 407
 	},
 	{
@@ -362,19 +356,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44133,
+		"ips": 44129,
 		"common": 203
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129955,
+		"ips": 129959,
 		"common": 233
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9594934,
+		"ips": 9594927,
 		"common": 1142
 	},
 	{
@@ -410,7 +404,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2270,
+		"ips": 2267,
 		"common": 4
 	},
 	{
@@ -596,8 +590,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38808,
-		"common": 24
+		"ips": 37932,
+		"common": 25
 	},
 	{
 		"name": "nullsecure",
@@ -1016,7 +1010,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 16754,
+		"ips": 16756,
 		"common": 1
 	},
 	{
@@ -1030,12 +1024,6 @@
 		"category": "reputation",
 		"ips": 30995,
 		"common": 3
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 449,
-		"common": 2
 	},
 	{
 		"name": "voipbl",

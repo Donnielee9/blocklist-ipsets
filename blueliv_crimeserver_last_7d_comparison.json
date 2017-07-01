@@ -50,8 +50,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 379,
-		"common": 26
+		"ips": 380,
+		"common": 25
 	},
 	{
 		"name": "bambenek_simda",
@@ -164,7 +164,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14152,
+		"ips": 14150,
 		"common": 70
 	},
 	{
@@ -212,13 +212,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16019,
+		"ips": 16014,
 		"common": 2
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5024,
+		"ips": 5005,
 		"common": 1
 	},
 	{
@@ -320,13 +320,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 17129,
+		"ips": 17178,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 14827,
+		"ips": 14864,
 		"common": 1
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 128576,
+		"ips": 128583,
 		"common": 2
 	},
 	{
@@ -435,24 +435,24 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 653472860,
-		"common": 26
+		"common": 25
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44133,
-		"common": 30
+		"ips": 44129,
+		"common": 31
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129955,
+		"ips": 129959,
 		"common": 130
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9594934,
+		"ips": 9594927,
 		"common": 788
 	},
 	{
@@ -494,8 +494,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2270,
-		"common": 19
+		"ips": 2267,
+		"common": 20
 	},
 	{
 		"name": "haley_ssh",
@@ -800,7 +800,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38808,
+		"ips": 37932,
 		"common": 1
 	},
 	{
@@ -1058,7 +1058,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 16754,
+		"ips": 16756,
 		"common": 9
 	},
 	{
@@ -1100,13 +1100,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 186,
+		"ips": 187,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 449,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 184,
+		"ips": 181,
 		"common": 1
 	},
 	{

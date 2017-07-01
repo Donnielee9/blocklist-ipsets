@@ -164,7 +164,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14152,
+		"ips": 14150,
 		"common": 803
 	},
 	{
@@ -224,25 +224,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 32,
-		"common": 7
+		"ips": 27,
+		"common": 9
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1091,
-		"common": 514
+		"ips": 1077,
+		"common": 503
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16019,
-		"common": 4430
+		"ips": 16014,
+		"common": 4432
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5024,
+		"ips": 5005,
 		"common": 2212
 	},
 	{
@@ -374,13 +374,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 17129,
+		"ips": 17178,
 		"common": 101
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 14827,
+		"ips": 14864,
 		"common": 86
 	},
 	{
@@ -440,7 +440,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 128576,
+		"ips": 128583,
 		"common": 735
 	},
 	{
@@ -512,20 +512,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44133,
+		"ips": 44129,
 		"common": 991
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129955,
+		"ips": 129959,
 		"common": 997
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9594934,
-		"common": 5385
+		"ips": 9594927,
+		"common": 5387
 	},
 	{
 		"name": "firehol_proxies",
@@ -572,7 +572,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2270,
+		"ips": 2267,
 		"common": 108
 	},
 	{
@@ -896,8 +896,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38808,
-		"common": 77
+		"ips": 37932,
+		"common": 86
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1370,7 +1370,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 16754,
+		"ips": 16756,
 		"common": 321
 	},
 	{
@@ -1418,26 +1418,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 186,
-		"common": 24
+		"ips": 187,
+		"common": 26
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 344,
-		"common": 10
+		"ips": 383,
+		"common": 12
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 449,
-		"common": 4
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 434,
-		"common": 1
+		"common": 6
 	},
 	{
 		"name": "urlvir",

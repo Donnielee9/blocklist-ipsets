@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14152,
+		"ips": 14150,
 		"common": 12
 	},
 	{
@@ -60,22 +60,28 @@
 		"common": 3
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 27,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1091,
-		"common": 38
+		"ips": 1077,
+		"common": 39
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16019,
-		"common": 38
+		"ips": 16014,
+		"common": 39
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5024,
-		"common": 38
+		"ips": 5005,
+		"common": 39
 	},
 	{
 		"name": "cleantalk",
@@ -164,7 +170,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 128576,
+		"ips": 128583,
 		"common": 1
 	},
 	{
@@ -200,20 +206,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44133,
+		"ips": 44129,
 		"common": 33
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129955,
+		"ips": 129959,
 		"common": 6
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9594934,
-		"common": 49
+		"ips": 9594927,
+		"common": 50
 	},
 	{
 		"name": "firehol_proxies",
@@ -236,7 +242,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2270,
+		"ips": 2267,
 		"common": 2
 	},
 	{
@@ -308,8 +314,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38808,
-		"common": 8
+		"ips": 37932,
+		"common": 9
 	},
 	{
 		"name": "packetmail",
@@ -530,7 +536,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 16754,
+		"ips": 16756,
 		"common": 4
 	},
 	{
@@ -560,13 +566,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 186,
-		"common": 1
+		"ips": 187,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 344,
+		"ips": 383,
 		"common": 2
 	}
 ]
