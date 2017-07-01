@@ -218,8 +218,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14256,
-		"common": 69
+		"ips": 14254,
+		"common": 68
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -254,7 +254,7 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6820,
+		"ips": 6847,
 		"common": 25
 	},
 	{
@@ -314,8 +314,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 17771,
-		"common": 17
+		"ips": 17365,
+		"common": 15
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -452,13 +452,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 17021,
+		"ips": 17060,
 		"common": 23
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 14728,
+		"ips": 14764,
 		"common": 18
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 372796,
+		"ips": 372878,
 		"common": 144
 	},
 	{
@@ -572,38 +572,38 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40533,
+		"ips": 40499,
 		"common": 993
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 266437,
+		"ips": 266439,
 		"common": 3404
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54986,
+		"ips": 54869,
 		"common": 38
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653472882,
+		"ips": 653472874,
 		"common": 6915
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45546,
+		"ips": 45552,
 		"common": 3434
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 130052,
-		"common": 1107
+		"ips": 129656,
+		"common": 1106
 	},
 	{
 		"name": "firehol_level4",
@@ -656,7 +656,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2271,
+		"ips": 2274,
 		"common": 18
 	},
 	{
@@ -942,9 +942,27 @@
 		"common": 2
 	},
 	{
+		"name": "php_harvesters",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_harvesters_1d",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
 		"name": "php_harvesters_30d",
 		"category": "spam",
-		"ips": 590,
+		"ips": 591,
+		"common": 1
+	},
+	{
+		"name": "php_harvesters_7d",
+		"category": "spam",
+		"ips": 185,
 		"common": 1
 	},
 	{
@@ -1166,7 +1184,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 16648,
+		"ips": 16654,
 		"common": 15
 	},
 	{
