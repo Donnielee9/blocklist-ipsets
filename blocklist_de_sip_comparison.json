@@ -6,6 +6,12 @@
 		"common": 4
 	},
 	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 6138,
+		"common": 1
+	},
+	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 6135,
@@ -20,14 +26,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35948,
-		"common": 143
+		"ips": 35985,
+		"common": 145
+	},
+	{
+		"name": "blocklist_de_strongips",
+		"category": "attacks",
+		"ips": 135,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14276,
-		"common": 6
+		"ips": 14268,
+		"common": 7
 	},
 	{
 		"name": "ciarmy",
@@ -102,6 +114,12 @@
 		"common": 1
 	},
 	{
+		"name": "dataplane_sshclient",
+		"category": "attacks",
+		"ips": 17099,
+		"common": 1
+	},
+	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 312087,
@@ -134,20 +152,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45160,
-		"common": 143
+		"ips": 45197,
+		"common": 145
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129727,
+		"ips": 129732,
 		"common": 6
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9594950,
-		"common": 12
+		"ips": 9594946,
+		"common": 13
 	},
 	{
 		"name": "firehol_proxies",
@@ -165,13 +183,19 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34737687,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095907,
 		"common": 18
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 20527,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -270,10 +294,16 @@
 		"common": 2
 	},
 	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 3100,
+		"common": 1
+	},
+	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 19
+		"common": 20
 	},
 	{
 		"name": "ri_web_proxies_30d",
@@ -348,10 +378,22 @@
 		"common": 1
 	},
 	{
+		"name": "trustedsec_atif",
+		"category": "reputation",
+		"ips": 1681,
+		"common": 1
+	},
+	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 30995,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 378,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
