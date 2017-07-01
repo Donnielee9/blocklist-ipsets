@@ -62,13 +62,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24815,
+		"ips": 24812,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11713,
+		"ips": 11712,
 		"common": 1
 	},
 	{
@@ -200,13 +200,13 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 261,
+		"ips": 262,
 		"common": 3
 	},
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
-		"ips": 170,
+		"ips": 171,
 		"common": 3
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 374328,
+		"ips": 374366,
 		"common": 35
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9594954,
+		"ips": 9594955,
 		"common": 1075
 	},
 	{
@@ -638,7 +638,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39765,
+		"ips": 39790,
 		"common": 5
 	},
 	{
@@ -926,7 +926,7 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 107,
+		"ips": 109,
 		"common": 1
 	},
 	{
@@ -936,10 +936,16 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 348,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 432,
-		"common": 2
+		"ips": 448,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -950,8 +956,8 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 378,
-		"common": 230
+		"ips": 443,
+		"common": 293
 	},
 	{
 		"name": "urandomusto_vnc",
