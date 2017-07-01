@@ -218,8 +218,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 375438,
-		"common": 3121
+		"ips": 375509,
+		"common": 3122
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 54915,
+		"ips": 54893,
 		"common": 6702
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 41761,
+		"ips": 41740,
 		"common": 6719
 	},
 	{
@@ -798,15 +798,21 @@
 		"common": 1
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2302,
+		"ips": 2297,
 		"common": 10
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23261,
+		"ips": 23241,
 		"common": 198
 	},
 	{
@@ -867,24 +873,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 657,
-		"common": 54
+		"ips": 663,
+		"common": 55
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5632,
+		"ips": 5629,
 		"common": 355
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2565,
+		"ips": 2568,
 		"common": 136
 	},
 	{
@@ -950,7 +956,7 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2068,
+		"ips": 2061,
 		"common": 1
 	},
 	{
@@ -958,6 +964,12 @@
 		"category": "reputation",
 		"ips": 30995,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 450,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
